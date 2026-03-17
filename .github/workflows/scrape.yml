@@ -2,8 +2,11 @@ name: Scrape & Deploy AlcoScore
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Chaque lundi à 6h du matin
-  workflow_dispatch:       # Permet aussi de lancer manuellement
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape-and-deploy:
@@ -11,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -26,8 +29,8 @@ jobs:
 
       - name: Commit et push alcools.json
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add alcools.json
           git diff --staged --quiet || git commit -m "🔄 Mise à jour automatique des données"
           git push
