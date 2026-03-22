@@ -500,8 +500,6 @@ function resetVS() {
 
 // --- FONCTION POUR LE RAT ++ ---
 function calculerRatIntelligent() {
-    console.log("🚀 Calcul Rat++ lancé !"); // Mouchard 1
-
     let prixInput = document.getElementById('rat-nouveau-prixL');
     let degreInput = document.getElementById('rat-nouveau-degre');
     let catInput = document.getElementById('rat-nouveau-cat');
@@ -510,11 +508,7 @@ function calculerRatIntelligent() {
     let texteScore = document.getElementById('rat-score');
     let texteReco = document.getElementById('rat-reco');
 
-    // Sécurité 1 : Vérifier si le HTML existe bien
-    if (!prixInput || !degreInput || !boxResultat) {
-        console.error("❌ Erreur : Impossible de trouver les cases HTML. Vérifie tes IDs.");
-        return;
-    }
+    if (!prixInput || !degreInput || !boxResultat) return;
 
     let prixL = parseFloat(prixInput.value);
     let degre = parseFloat(degreInput.value);
@@ -525,56 +519,43 @@ function calculerRatIntelligent() {
         return;
     }
 
-    // Le calcul
+    // Le calcul du ratio
     let ratio = prixL / (degre / 100);
-    console.log("✅ Ratio calculé :", ratio.toFixed(2)); // Mouchard 2
-
-    // On affiche la boîte et on nettoie les anciennes couleurs
     boxResultat.classList.remove("hidden", "border-emerald-500", "border-rose-500", "border-yellow-500");
 
-    // Tenter de trouver ta base de données (on teste les noms les plus probables)
-    let baseDonnees = null;
-    if (typeof allProducts !== 'undefined') baseDonnees = allProducts;
-    else if (typeof produits !== 'undefined') baseDonnees = produits;
-    else if (typeof window.allProducts !== 'undefined') baseDonnees = window.allProducts;
-
-    console.log("📦 Base de données trouvée :", baseDonnees ? baseDonnees.length + " produits" : "NON"); // Mouchard 3
+    // 🟢 LA CONNEXION À TON CATALOGUE (Variable 'db') 🟢
+    let baseDonnees = typeof db !== 'undefined' ? db : null;
 
     if (baseDonnees && baseDonnees.length > 0) {
-        try {
-            // Sécurité 2 : On filtre en vérifiant que le produit a bien une catégorie pour éviter les crashs
-            let alternatives = baseDonnees.filter(p => {
-                if (!p || !p.categorie || !p.ratio) return false;
-                let pCat = p.categorie.toLowerCase();
-                return pCat.includes(categorie) || categorie.includes(pCat.split('-')[0]);
-            });
+        // 1. On cherche les produits de la même famille
+        let alternatives = baseDonnees.filter(p => {
+            if (!p || !p.categorie || !p.ratio) return false;
+            let pCat = p.categorie.toLowerCase();
+            return pCat.includes(categorie) || categorie.includes(pCat.split('-')[0]);
+        });
 
-            let meilleures = alternatives.filter(p => p.ratio < ratio && p.ratio > 0);
+        // 2. On garde seulement ceux qui ont un MEILLEUR ratio (moins cher)
+        let meilleures = alternatives.filter(p => p.ratio < ratio && p.ratio > 0);
+        
+        if (meilleures.length > 0) {
+            // On trie pour proposer le grand champion de la catégorie
+            meilleures.sort((a, b) => a.ratio - b.ratio);
+            let topAltern = meilleures[0];
             
-            if (meilleures.length > 0) {
-                // On trie pour prendre la moins chère
-                meilleures.sort((a, b) => a.ratio - b.ratio);
-                let topAltern = meilleures[0];
-                
-                boxResultat.classList.add("border-rose-500");
-                texteScore.innerHTML = `Ratio : <span class="text-rose-500">${ratio.toFixed(2)} €/L</span> pur`;
-                texteReco.innerHTML = `⚠️ <b>C'est un peu cher.</b><br>Sur notre appli, on a du <b>${topAltern.nom}</b> à <b class="text-emerald-400">${topAltern.ratio.toFixed(2)} €/L</b> pur. Repose ça en rayon !`;
-            } else {
-                boxResultat.classList.add("border-emerald-500");
-                texteScore.innerHTML = `Ratio : <span class="text-emerald-500">${ratio.toFixed(2)} €/L</span> pur`;
-                texteReco.innerHTML = `🔥 <b>Excellente affaire !</b><br>Notre base de données ne trouve aucun produit dans cette catégorie qui batte ce prix. Tu peux foncer !`;
-            }
-        } catch (error) {
-            console.error("❌ Crash pendant la recherche d'alternatives :", error);
-            boxResultat.classList.add("border-yellow-500");
-            texteScore.innerHTML = `Ratio : <span class="text-yellow-500">${ratio.toFixed(2)} €/L</span> pur`;
-            texteReco.innerHTML = "Calculé avec succès ! <i>(Impossible de comparer avec la base)</i>.";
+            boxResultat.classList.add("border-rose-500");
+            texteScore.innerHTML = `Ratio : <span class="text-rose-500">${ratio.toFixed(2)} €/L</span> pur`;
+            texteReco.innerHTML = `⚠️ <b>C'est un peu cher.</b><br>Repose ça en rayon ! Sur notre appli, pour ce type de boisson, tu pourrais avoir du <b>${topAltern.nom}</b> à seulement <b class="text-emerald-400">${topAltern.ratio.toFixed(2)} €/L</b> pur.`;
+        } else {
+            // S'il n'y a pas d'alternative moins chère, c'est que l'utilisateur a trouvé une pépite !
+            boxResultat.classList.add("border-emerald-500");
+            texteScore.innerHTML = `Ratio : <span class="text-emerald-500">${ratio.toFixed(2)} €/L</span> pur`;
+            texteReco.innerHTML = `🔥 <b>C'est imbattable !</b><br>Il n'y a absolument rien de moins cher dans notre catalogue Leclerc pour cette catégorie. Tu peux foncer les yeux fermés !`;
         }
     } else {
-        // Mode Hors-Ligne (si on ne trouve pas ta base de données)
+        // Sécurité si 'db' n'a pas encore fini de charger
         boxResultat.classList.add("border-yellow-500");
         texteScore.innerHTML = `Ratio : <span class="text-yellow-500">${ratio.toFixed(2)} €/L</span> pur`;
-        texteReco.innerHTML = "Calculé avec succès !<br><span class='text-xs text-gray-500'>Note : La comparaison intelligente est en pause car la base de données n'est pas détectée.</span>";
+        texteReco.innerHTML = "Calculé avec succès ! (Chargement du comparateur...)";
     }
 }
 
