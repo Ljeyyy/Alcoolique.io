@@ -24,18 +24,6 @@
     "url": "https://www.e.leclerc/pro/biere-brasserie-du-mont-blanc-la-verte-au-genepi-aromatise-75-cl-verte-5-9-vol"
   },
   {
-    "nom": "Bière Kasteel, Rouge Aromatisé, 75 cl rouge 8% vol.",
-    "slug": "biere-kasteel-rouge-aromatise-75-cl-rouge-8-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 8.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5411081003661_1",
-    "url": "https://www.e.leclerc/pro/biere-kasteel-rouge-aromatise-75-cl-rouge-8-vol"
-  },
-  {
     "nom": "Bière Fruit beer, 75 cl rouge 8% vol.",
     "slug": "biere-fruit-beer-75-cl-rouge-8-vol",
     "categorie": "bières",
@@ -96,18 +84,6 @@
     "url": "https://www.e.leclerc/pro/biere-kwak-blonde-ale-75-cl-blonde-7-4-vol"
   },
   {
-    "nom": "Bière Triple Kwak Triple, 75 cl ambree 8,4% vol.",
-    "slug": "biere-triple-kwak-triple-75-cl-ambree-8-4-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 8.4,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5410228285182_1",
-    "url": "https://www.e.leclerc/pro/biere-triple-kwak-triple-75-cl-ambree-8-4-vol"
-  },
-  {
     "nom": "Bière Brasserie du Mont Blanc La Blonde Strong Lager, 75 cl blonde 5,8% vol.",
     "slug": "biere-brasserie-du-mont-blanc-la-blonde-strong-lager-75-cl-blonde-5-8-vol",
     "categorie": "bières",
@@ -118,66 +94,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3760023241039_1",
     "url": "https://www.e.leclerc/pro/biere-brasserie-du-mont-blanc-la-blonde-strong-lager-75-cl-blonde-5-8-vol"
-  },
-  {
-    "nom": "Bière Duvel Strong Lager Strong Lager, 75 cl blonde 8,5% vol.",
-    "slug": "biere-duvel-strong-lager-strong-lager-75-cl-blonde-8-5-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 8.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5411681402635_1",
-    "url": "https://www.e.leclerc/pro/biere-duvel-strong-lager-strong-lager-75-cl-blonde-8-5-vol"
-  },
-  {
-    "nom": "Bière Rince Cochon Strong Lager, 75 cl blonde 8,5% vol.",
-    "slug": "biere-rince-cochon-strong-lager-75-cl-blonde-8-5-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 8.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3291820009213_1",
-    "url": "https://www.e.leclerc/pro/biere-rince-cochon-strong-lager-75-cl-blonde-8-5-vol"
-  },
-  {
-    "nom": "Bière Corbeau Strong Lager, 75 cl blonde 9% vol.",
-    "slug": "biere-corbeau-strong-lager-75-cl-blonde-9-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 9.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3291820013036_1",
-    "url": "https://www.e.leclerc/pro/biere-corbeau-strong-lager-75-cl-blonde-9-vol"
-  },
-  {
-    "nom": "Bière Duvel Triple Hop Citra IPA, 75 cl blonde 9,5% vol.",
-    "slug": "biere-duvel-triple-hop-citra-ipa-75-cl-blonde-9-5-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 9.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5411681405186_1",
-    "url": "https://www.e.leclerc/pro/biere-duvel-triple-hop-citra-ipa-75-cl-blonde-9-5-vol"
-  },
-  {
-    "nom": "Bière  La \"G\" de Goudale Grand Cru Rhum Finish Ale, 75 cl blonde 7,9% vol.",
-    "slug": "biere-la-g-de-goudale-grand-cru-rhum-finish-ale-75-cl-blonde-7-9-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 7.9,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3261570006329_1",
-    "url": "https://www.e.leclerc/pro/biere-la-g-de-goudale-grand-cru-rhum-finish-ale-75-cl-blonde-7-9-vol"
   },
   {
     "nom": "Bière , 75 cl 7.2% vol.",
@@ -204,18 +120,6 @@
     "url": "https://www.e.leclerc/pro/biere-castelain-grand-cru-biere-de-garde-75-cl-blonde-8-5-vol"
   },
   {
-    "nom": "Bière Ale Kwak goût cerise Ale, 75 cl rouge 8% vol.",
-    "slug": "biere-ale-kwak-gout-cerise-ale-75-cl-rouge-8-vol",
-    "categorie": "bières",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 8.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5410228291206_1",
-    "url": "https://www.e.leclerc/pro/biere-ale-kwak-gout-cerise-ale-75-cl-rouge-8-vol"
-  },
-  {
     "nom": "Mouton Cadet, 2023 - Bordeaux AOP - Rouge - 75 cl",
     "slug": "mouton-cadet-2023-bordeaux-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -226,18 +130,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3262151637758_1",
     "url": "https://www.e.leclerc/pro/mouton-cadet-2023-bordeaux-aop-rouge-75-cl"
-  },
-  {
-    "nom": "La Vieille Ferme, 2024 - Vin de France - Rouge - 75 cl",
-    "slug": "la-vieille-ferme-2024-vin-de-france-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3296180005387_1",
-    "url": "https://www.e.leclerc/pro/la-vieille-ferme-2024-vin-de-france-rouge-75-cl"
   },
   {
     "nom": "Bouchard Ainé & Fils, 2024 - Bourgogne Pinot Noir AOP - Rouge - 75 cl",
@@ -324,18 +216,6 @@
     "url": "https://www.e.leclerc/pro/laurent-brotte-2022-cotes-du-rhone-aop-rouge-75-cl"
   },
   {
-    "nom": "Château L'Hospitalet BIO, 2023 - La Clape AOP - Rouge - 75 cl",
-    "slug": "chateau-l-hospitalet-bio-2023-la-clape-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3514123107401_1",
-    "url": "https://www.e.leclerc/pro/chateau-l-hospitalet-bio-2023-la-clape-aop-rouge-75-cl"
-  },
-  {
     "nom": "Château La Sauvageonne Gérard Bertrand BIO, 2023 - Terrasses du Larzac AOP - Rouge - 75 cl",
     "slug": "chateau-la-sauvageonne-gerard-bertrand-bio-2023-terrasses-du-larzac-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -408,18 +288,6 @@
     "url": "https://www.e.leclerc/pro/couvent-des-visitandines-2024-bourgogne-pinot-noir-aop-rouge-75-cl"
   },
   {
-    "nom": "Nous Cinq, 2023 - Vin de France - Rouge - 75 cl",
-    "slug": "nous-cinq-2023-vin-de-france-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3468000144334_1",
-    "url": "https://www.e.leclerc/pro/nous-cinq-2023-vin-de-france-rouge-75-cl"
-  },
-  {
     "nom": "Les Tours de Pierreux, 2024 - Brouilly AOP - Rouge - 75 cl",
     "slug": "les-tours-de-pierreux-2024-brouilly-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -430,18 +298,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/3257650086572_1",
     "url": "https://www.e.leclerc/pro/les-tours-de-pierreux-2024-brouilly-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Saumur Champigny Charles de Villeneuve, 2022 - Saumur-Champigny AOP - Rouge - 75 cl",
-    "slug": "saumur-champigny-charles-de-villeneuve-2022-saumur-champigny-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3215191021100_1",
-    "url": "https://www.e.leclerc/pro/saumur-champigny-charles-de-villeneuve-2022-saumur-champigny-aop-rouge-75-cl"
   },
   {
     "nom": "Jean-Claude Mas Vive Le Rouge Intense, 2024 - Vin de France - Rouge - 75 cl",
@@ -502,18 +358,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3365810015017_1",
     "url": "https://www.e.leclerc/pro/la-part-des-biches-2023-cahors-aop-rouge-75-cl"
-  },
-  {
-    "nom": "La Vieille Eglise, 2021 - Côtes du Marmandais AOP - Rouge - 75 cl",
-    "slug": "la-vieille-eglise-2021-cotes-du-marmandais-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3468000013982_1",
-    "url": "https://www.e.leclerc/pro/la-vieille-eglise-2021-cotes-du-marmandais-aop-rouge-75-cl"
   },
   {
     "nom": "CHATEAU DE RUTH, 2024 - Côtes du Rhône AOP - Rouge - 75 cl",
@@ -600,18 +444,6 @@
     "url": "https://www.e.leclerc/pro/chateau-courac-eole-2023-cotes-du-rhone-villages-laudun-aop-rouge-75-cl"
   },
   {
-    "nom": "Romain Duvernay, 2023 - Côtes du Rhône Villages Séguret AOP - Rouge - 75 cl",
-    "slug": "romain-duvernay-2023-cotes-du-rhone-villages-seguret-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3760256771105_1",
-    "url": "https://www.e.leclerc/pro/romain-duvernay-2023-cotes-du-rhone-villages-seguret-aop-rouge-75-cl"
-  },
-  {
     "nom": "M. chapoutier, 2024 - Luberon AOP - Rouge - 75 cl",
     "slug": "m-chapoutier-2024-luberon-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -696,18 +528,6 @@
     "url": "https://www.e.leclerc/pro/chateau-graulet-2023-blaye-cotes-de-bordeaux-aop-rouge-75-cl"
   },
   {
-    "nom": "Romain Duvernay, 2024 - Beaumes-de-Venise AOP - Rouge - 75 cl",
-    "slug": "romain-duvernay-2024-beaumes-de-venise-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760256771624_1",
-    "url": "https://www.e.leclerc/pro/romain-duvernay-2024-beaumes-de-venise-aop-rouge-75-cl"
-  },
-  {
     "nom": "FONJOYA, 2024 - Saint-Guilhem le Désert IGP - Rouge - 75 cl",
     "slug": "fonjoya-2024-saint-guilhem-le-desert-igp-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -742,30 +562,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/3217661024147_1",
     "url": "https://www.e.leclerc/pro/laurent-brotte-les-charmilles-2022-cairanne-aop-rouge-75-cl"
-  },
-  {
-    "nom": "E.Guigal 2022 - Côtes du Rhône AOP - Rouge - 75 cl",
-    "slug": "e-guigal-2022-cotes-du-rhone-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3536650501002_1",
-    "url": "https://www.e.leclerc/pro/e-guigal-2022-cotes-du-rhone-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Devois Des Agneaux d'Aumelas BIO, 2023 - Languedoc AOP - Rouge - 75 cl",
-    "slug": "devois-des-agneaux-d-aumelas-bio-2023-languedoc-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3186128077708_1",
-    "url": "https://www.e.leclerc/pro/devois-des-agneaux-d-aumelas-bio-2023-languedoc-aop-rouge-75-cl"
   },
   {
     "nom": "Terroir daronton, 2024 - Ventoux AOP - Rouge - 75 cl",
@@ -886,18 +682,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760280000844_1",
     "url": "https://www.e.leclerc/pro/le-dahut-2023-languedoc-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Château les Estanilles La Chapelle BIO, 2023 - Faugères AOP - Rouge - 75 cl",
-    "slug": "chateau-les-estanilles-la-chapelle-bio-2023-faugeres-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3418060000231_1",
-    "url": "https://www.e.leclerc/pro/chateau-les-estanilles-la-chapelle-bio-2023-faugeres-aop-rouge-75-cl"
   },
   {
     "nom": "N°2 de Maucaillou, 2019 - Moulis AOP - Rouge - 75 cl",
@@ -1126,18 +910,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/3264380083603_1",
     "url": "https://www.e.leclerc/pro/grand-caractere-mommessin-2023-morgon-aop-rouge-75-cl"
-  },
-  {
-    "nom": "CHATEAU DE FRANCS, 2022 - Côtes de Bordeaux AOP - Rouge - 75 cl",
-    "slug": "chateau-de-francs-2022-cotes-de-bordeaux-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760310690373_1",
-    "url": "https://www.e.leclerc/pro/chateau-de-francs-2022-cotes-de-bordeaux-aop-rouge-75-cl"
   },
   {
     "nom": "Domaine de Champ de Cour, 2022 - Moulin à Vent AOP - Rouge - 75 cl",
@@ -1464,18 +1236,6 @@
     "url": "https://www.e.leclerc/pro/les-dames-huguette-2023-bourgogne-hautes-cotes-de-nuits-aop-rouge-75-cl"
   },
   {
-    "nom": "Jean Claude Mas Les Schistes, 2024 - Pays d'Oc IGP - Rouge - 75 cl",
-    "slug": "jean-claude-mas-les-schistes-2024-pays-d-oc-igp-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3760040427386_1",
-    "url": "https://www.e.leclerc/pro/jean-claude-mas-les-schistes-2024-pays-d-oc-igp-rouge-75-cl"
-  },
-  {
     "nom": "Mommessin Grand Caractère \"Côte du Py\" 2024 - Morgon AOP - Rouge - 75 cl",
     "slug": "mommessin-grand-caractere-cote-du-py-2024-morgon-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -1582,18 +1342,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3260980028440_1",
     "url": "https://www.e.leclerc/pro/bonpas-2024-cotes-du-rhone-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Château Roques Mauriac Cuvée Hélène, 2023 - Bordeaux Supérieur AOP - Rouge - 75 cl",
-    "slug": "chateau-roques-mauriac-cuvee-helene-2023-bordeaux-superieur-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3330690005397_1",
-    "url": "https://www.e.leclerc/pro/chateau-roques-mauriac-cuvee-helene-2023-bordeaux-superieur-aop-rouge-75-cl"
   },
   {
     "nom": "Saint michel, 2024 - Gaillac AOP - Rouge - 75 cl",
@@ -1896,18 +1644,6 @@
     "url": "https://www.e.leclerc/pro/chateau-beaumont-2022-haut-medoc-aop-rouge-75-cl"
   },
   {
-    "nom": "Domaine des Damoiselles BIO, 2024 - Saumur-Champigny AOP - Rouge - 75 cl",
-    "slug": "domaine-des-damoiselles-bio-2024-saumur-champigny-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760267310003_1",
-    "url": "https://www.e.leclerc/pro/domaine-des-damoiselles-bio-2024-saumur-champigny-aop-rouge-75-cl"
-  },
-  {
     "nom": "Trimbach, 2023 - Alsace Pinot Noir AOP - Rouge - 75 cl",
     "slug": "trimbach-2023-alsace-pinot-noir-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -1978,18 +1714,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/3391180006096_1",
     "url": "https://www.e.leclerc/pro/m-chapoutier-les-pentues-bio-2020-cotes-du-rhone-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Domaine Desprat Saint Verny Vignoble Volcanique \"Le Pinot Noir\", 2024 - Vin de France - Rouge - 75 cl",
-    "slug": "domaine-desprat-saint-verny-vignoble-volcanique-le-pinot-noir-2024-vin-de-france-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3340525143002_1",
-    "url": "https://www.e.leclerc/pro/domaine-desprat-saint-verny-vignoble-volcanique-le-pinot-noir-2024-vin-de-france-rouge-75-cl"
   },
   {
     "nom": "Estandon, 2024 - Côtes de Provence AOP - Rouge - 75 cl",
@@ -2446,18 +2170,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3419700105316_1",
     "url": "https://www.e.leclerc/pro/domaine-des-vals-2024-languedoc-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Domaine La Différence La Racine Carrée, 2024 - Côtes-du-Roussillon-Villages AOP - Rouge - 75 cl",
-    "slug": "domaine-la-difference-la-racine-carree-2024-cotes-du-roussillon-villages-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760185982412_1",
-    "url": "https://www.e.leclerc/pro/domaine-la-difference-la-racine-carree-2024-cotes-du-roussillon-villages-aop-rouge-75-cl"
   },
   {
     "nom": "La Petite Perdrane, 2023 - Saint-Guilhem le Désert IGP - Rouge - 75 cl",
@@ -4992,18 +4704,6 @@
     "url": "https://www.e.leclerc/pro/chateau-de-france-2022-pessac-leognan-aop-rouge-75-cl"
   },
   {
-    "nom": "Charles de Villeneuve BIO, 2022 - Saumur-Champigny AOP - Rouge - 75 cl",
-    "slug": "charles-de-villeneuve-bio-2022-saumur-champigny-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3215190021927_1",
-    "url": "https://www.e.leclerc/pro/charles-de-villeneuve-bio-2022-saumur-champigny-aop-rouge-75-cl"
-  },
-  {
     "nom": "Parallèle 45, 2023 - Crozes-Hermitage AOP - Rouge - 75 cl",
     "slug": "parallele-45-2023-crozes-hermitage-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -6216,18 +5916,6 @@
     "url": "https://www.e.leclerc/pro/gerard-bertrand-autrement-cabernet-sauvignon-bio-2021-pays-d-oc-igp-rouge-75-cl"
   },
   {
-    "nom": "Château Les Grands Chênes, 2022 - Médoc AOP - Rouge - 75 cl",
-    "slug": "chateau-les-grands-chenes-2022-medoc-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760117794618_1",
-    "url": "https://www.e.leclerc/pro/chateau-les-grands-chenes-2022-medoc-aop-rouge-75-cl"
-  },
-  {
     "nom": "Labouré Roi, 2023 - Côte de Nuits Villages AOP - Rouge - 75 cl",
     "slug": "laboure-roi-2023-cote-de-nuits-villages-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -6262,18 +5950,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/3760016292147_1",
     "url": "https://www.e.leclerc/pro/magnum-domaine-de-l-hortus-grande-cuvee-2022-languedoc-aop-rouge-1-5-l"
-  },
-  {
-    "nom": "Domaine Des Fournaches, 2022 - Bourgogne Hautes-Côtes de Nuits AOP - Rouge - 75 cl",
-    "slug": "domaine-des-fournaches-2022-bourgogne-hautes-cotes-de-nuits-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3340778001210_1",
-    "url": "https://www.e.leclerc/pro/domaine-des-fournaches-2022-bourgogne-hautes-cotes-de-nuits-aop-rouge-75-cl"
   },
   {
     "nom": "Château Charmail, 2022 - Haut-Médoc AOP - Rouge - 75 cl",
@@ -6346,18 +6022,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/2030009532804_1",
     "url": "https://www.e.leclerc/pro/alphonse-mellot-2022-sancerre-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Charles De Villeneuve, 2023 - Saumur AOP - Rouge - 75 cl",
-    "slug": "charles-de-villeneuve-2023-saumur-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3215191022107_1",
-    "url": "https://www.e.leclerc/pro/charles-de-villeneuve-2023-saumur-aop-rouge-75-cl"
   },
   {
     "nom": "Echo de Lynch-Bages, 2022 - Pauillac AOP - Rouge - 75 cl",
@@ -6466,18 +6130,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760130251716_1",
     "url": "https://www.e.leclerc/pro/ruth-2023-cotes-du-rhone-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Domaine des Champs Fleuris Vieilles Vignes, 2024 - Saumur-Champigny AOP - Rouge - 75 cl",
-    "slug": "domaine-des-champs-fleuris-vieilles-vignes-2024-saumur-champigny-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760267846144_1",
-    "url": "https://www.e.leclerc/pro/domaine-des-champs-fleuris-vieilles-vignes-2024-saumur-champigny-aop-rouge-75-cl"
   },
   {
     "nom": "Rhonea, 2022 - Beaumes-de-Venise AOP - Rouge - 75 cl",
@@ -7140,18 +6792,6 @@
     "url": "https://www.e.leclerc/pro/chateau-de-caravette-2022-languedoc-aop-rouge-75-cl"
   },
   {
-    "nom": "Mas Amiel \"Vintage\" BIO, 2018 - Maury Vin Doux Naturel AOP - Rouge - 75 cl",
-    "slug": "mas-amiel-vintage-bio-2018-maury-vin-doux-naturel-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3281540032080_1",
-    "url": "https://www.e.leclerc/pro/mas-amiel-vintage-bio-2018-maury-vin-doux-naturel-aop-rouge-75-cl"
-  },
-  {
     "nom": "Château de La Soujeole Cuvée des Chênes BIO, 2020 - Malepère AOP - Rouge - 75 cl",
     "slug": "chateau-de-la-soujeole-cuvee-des-chenes-bio-2020-malepere-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -7776,18 +7416,6 @@
     "url": "https://www.e.leclerc/pro/magnum-merrain-rouge-2020-medoc-aop-rouge-1-5-l"
   },
   {
-    "nom": "Mas Amiel - Vintage, 2014 - Maury AOP - Rouge -  75 cl",
-    "slug": "mas-amiel-vintage-2014-maury-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3281540032165_1",
-    "url": "https://www.e.leclerc/pro/mas-amiel-vintage-2014-maury-aop-rouge-75-cl"
-  },
-  {
     "nom": "Château Espiot BIO, 2020 - Pessac-Léognan AOP - Rouge - 75 cl",
     "slug": "chateau-espiot-bio-2020-pessac-leognan-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -8052,18 +7680,6 @@
     "url": "https://www.e.leclerc/pro/domaine-georges-bertrand-cuvee-d-exception-bio-2021-corbieres-boutenac-aop-rouge-75-cl"
   },
   {
-    "nom": "Naudin Varrault, 2020 - Bourgogne Hautes-Côtes de Nuits AOC - Rouge -  75 cl",
-    "slug": "naudin-varrault-2020-bourgogne-hautes-cotes-de-nuits-aoc-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3491330004009_1",
-    "url": "https://www.e.leclerc/pro/naudin-varrault-2020-bourgogne-hautes-cotes-de-nuits-aoc-rouge-75-cl"
-  },
-  {
     "nom": "Bernard Magrez Le Prélat - Laudun, 2019 - Côtes du Rhône Villages AOP - Rouge - 75 cl",
     "slug": "bernard-magrez-le-prelat-laudun-2019-cotes-du-rhone-villages-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -8280,18 +7896,6 @@
     "url": "https://www.e.leclerc/pro/chateau-moulin-de-curat-2023-puisseguin-saint-emilion-aop-rouge-75-cl"
   },
   {
-    "nom": "Anthonin Bajard Pinot Noir, 2023 - Bourgogne Hautes-Côtes de Nuits AOC - Rouge - 75 cl",
-    "slug": "anthonin-bajard-pinot-noir-2023-bourgogne-hautes-cotes-de-nuits-aoc-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3463640057860_1",
-    "url": "https://www.e.leclerc/pro/anthonin-bajard-pinot-noir-2023-bourgogne-hautes-cotes-de-nuits-aoc-rouge-75-cl"
-  },
-  {
     "nom": "Château Gloria, 2019 - Saint-Julien A.O.C. - Rouge -  75 cl",
     "slug": "chateau-gloria-2019-saint-julien-a-o-c-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -8374,18 +7978,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3770012910617_1",
     "url": "https://www.e.leclerc/pro/chateau-de-lunes-bio-2022-languedoc-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Autrement - Gérard Bertrand BIO - Vin de France - Rouge - Bag in Box - 3 L",
-    "slug": "autrement-gerard-bertrand-bio-vin-de-france-rouge-bag-in-box-3-l",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3514120210128_1",
-    "url": "https://www.e.leclerc/pro/autrement-gerard-bertrand-bio-vin-de-france-rouge-bag-in-box-3-l"
   },
   {
     "nom": "Domaine Brunely, 2023 - Côtes du Rhône AOP - Rouge - 75 cl",
@@ -8938,18 +8530,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760297711405_1",
     "url": "https://www.e.leclerc/pro/chateau-de-couches-2023-bourgogne-pinot-noir-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Léo by Léo - Bordeaux AOP - Rouge - Bag in Box - 3 L",
-    "slug": "leo-by-leo-bordeaux-aop-rouge-bag-in-box-3-l",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3662312013795_1",
-    "url": "https://www.e.leclerc/pro/leo-by-leo-bordeaux-aop-rouge-bag-in-box-3-l"
   },
   {
     "nom": "Collioure By Lafage, 2020 - Collioure AOP - Rouge -  75 cl",
@@ -10164,18 +9744,6 @@
     "url": "https://www.e.leclerc/pro/chateau-changrolle-2022-lalande-de-pomerol-aop-rouge-75-cl"
   },
   {
-    "nom": "Elisabeth prataviera, 2024 - Côtes de Gascogne IGP - Rouge - 75 cl",
-    "slug": "elisabeth-prataviera-2024-cotes-de-gascogne-igp-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760094287899_1",
-    "url": "https://www.e.leclerc/pro/elisabeth-prataviera-2024-cotes-de-gascogne-igp-rouge-75-cl"
-  },
-  {
     "nom": "Domaine de l'Emme BIO, 2021 - Pic-Saint-Loup AOP - Rouge -  75 cl",
     "slug": "domaine-de-l-emme-bio-2021-pic-saint-loup-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -10198,18 +9766,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3263810146888_1",
     "url": "https://www.e.leclerc/pro/les-rives-de-malva-2021-saint-joseph-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Château Les Grands Chênes, 2020 - Médoc AOP - Rouge - 75 cl",
-    "slug": "chateau-les-grands-chenes-2020-medoc-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3760117794083_1",
-    "url": "https://www.e.leclerc/pro/chateau-les-grands-chenes-2020-medoc-aop-rouge-75-cl"
   },
   {
     "nom": "CHATEAU ARTIGUES, 2019 - Pauillac AOP - Rouge - 75 cl",
@@ -10440,18 +9996,6 @@
     "url": "https://www.e.leclerc/pro/alter-ego-de-chateau-palmer-margaux-2020-margaux-aop-rouge-75-cl"
   },
   {
-    "nom": "Marques de la concordia, 2018, Espagne - Rouge -  75 cl",
-    "slug": "marques-de-la-concordia-2018-espagne-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8410026047675_1",
-    "url": "https://www.e.leclerc/pro/marques-de-la-concordia-2018-espagne-rouge-75-cl"
-  },
-  {
     "nom": "Romain Duvernay BIO, 2018 - Côtes du Rhône Villages Plan de Dieu AOP - Rouge -  75 cl",
     "slug": "romain-duvernay-bio-2018-cotes-du-rhone-villages-plan-de-dieu-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -10474,18 +10018,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3335130000437_1",
     "url": "https://www.e.leclerc/pro/les-sarralieres-2022-crozes-hermitage-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Château Ducru Beaucaillou, 2018 - Saint-Julien A.O.C. - Rouge -  75 cl",
-    "slug": "chateau-ducru-beaucaillou-2018-saint-julien-a-o-c-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3701400300277_1",
-    "url": "https://www.e.leclerc/pro/chateau-ducru-beaucaillou-2018-saint-julien-a-o-c-rouge-75-cl"
   },
   {
     "nom": "Château Maucaillou, 2020 - Moulis AOP - Rouge - 75 cl",
@@ -10908,18 +10440,6 @@
     "url": "https://www.e.leclerc/pro/domaine-de-la-daysse-2019-gigondas-aop-rouge-75-cl"
   },
   {
-    "nom": "Mas Amiel Vintage, 2015 - Maury AOP - Rouge -  75 cl",
-    "slug": "mas-amiel-vintage-2015-maury-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3281540032172_1",
-    "url": "https://www.e.leclerc/pro/mas-amiel-vintage-2015-maury-aop-rouge-75-cl"
-  },
-  {
     "nom": "Vinescence, 2023 - Saint-Amour AOP - Rouge - 75 cl",
     "slug": "vinescence-2023-saint-amour-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -10990,18 +10510,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3258691561677_1",
     "url": "https://www.e.leclerc/pro/chateau-la-garde-2016-pessac-leognan-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Mas amiel BIO, 2020 - Maury Vin Doux Naturel AOP - Rouge - 75 cl",
-    "slug": "mas-amiel-bio-2020-maury-vin-doux-naturel-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3281540032028_1",
-    "url": "https://www.e.leclerc/pro/mas-amiel-bio-2020-maury-vin-doux-naturel-aop-rouge-75-cl"
   },
   {
     "nom": "Château de Pressac, 2021 - Saint-Emilion Grand Cru Classé AOP - Rouge - 75 cl",
@@ -11220,18 +10728,6 @@
     "url": "https://www.e.leclerc/pro/domaine-montjoie-le-fleurs-des-vignes-2022-languedoc-aop-rouge-75-cl"
   },
   {
-    "nom": "Château les Grands Chênes, 2017 - Médoc AOP - Rouge -  75 cl",
-    "slug": "chateau-les-grands-chenes-2017-medoc-aop-rouge-75-cl",
-    "categorie": "vins-rouges",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 13.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3760117793659_1",
-    "url": "https://www.e.leclerc/pro/chateau-les-grands-chenes-2017-medoc-aop-rouge-75-cl"
-  },
-  {
     "nom": "Château Huradin, 2018 - Graves AOP - Rouge -  75 cl",
     "slug": "chateau-huradin-2018-graves-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -11352,18 +10848,6 @@
     "url": "https://www.e.leclerc/pro/domaine-tariquet-premieres-grives-2024-cotes-de-gascogne-igp-blanc-demi-sec-75-cl"
   },
   {
-    "nom": "Elia 9%, 2025 - Côtes de Gascogne IGP - Blanc Sec - 75 cl",
-    "slug": "elia-9-2025-cotes-de-gascogne-igp-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 9.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3270046008934_1",
-    "url": "https://www.e.leclerc/pro/elia-9-2025-cotes-de-gascogne-igp-blanc-sec-75-cl"
-  },
-  {
     "nom": "Mouton Cadet, 2025 - Bordeaux AOP - Blanc Sec - 75 cl",
     "slug": "mouton-cadet-2025-bordeaux-aop-blanc-sec-75-cl",
     "categorie": "vins-blancs",
@@ -11388,18 +10872,6 @@
     "url": "https://www.e.leclerc/pro/bouchard-aine-fils-2024-bourgogne-chardonnay-aop-blanc-sec-75-cl"
   },
   {
-    "nom": "Jean Claude Mas, 2024 - Pays d'Oc AOP - Blanc Sec - 75 cl",
-    "slug": "jean-claude-mas-2024-pays-d-oc-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3453040012163_1",
-    "url": "https://www.e.leclerc/pro/jean-claude-mas-2024-pays-d-oc-aop-blanc-sec-75-cl"
-  },
-  {
     "nom": "Tradition Royale, 2025 - Jurançon AOP - Blanc Moelleux - 75 cl",
     "slug": "tradition-royale-2025-jurancon-aop-blanc-moelleux-75-cl",
     "categorie": "vins-blancs",
@@ -11410,18 +10882,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3300943314071_1",
     "url": "https://www.e.leclerc/pro/tradition-royale-2025-jurancon-aop-blanc-moelleux-75-cl"
-  },
-  {
-    "nom": "La Vieille Ferme, 2024 - Vin de France - Blanc Sec - 75 cl",
-    "slug": "la-vieille-ferme-2024-vin-de-france-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3296180005400_1",
-    "url": "https://www.e.leclerc/pro/la-vieille-ferme-2024-vin-de-france-blanc-sec-75-cl"
   },
   {
     "nom": "Château L'Hospitalet La Réserve BIO, 2023 - La Clape AOP - Blanc Sec - 75 cl",
@@ -11458,18 +10918,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760078218499_1",
     "url": "https://www.e.leclerc/pro/domaine-maison-cheverny-blanc-domaine-maison-2024-cheverny-aop-blanc-sec-75-cl"
-  },
-  {
-    "nom": "Elia, 2024 - Côtes de Gascogne IGP - Blanc Sec - 75 cl",
-    "slug": "elia-2024-cotes-de-gascogne-igp-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3270046023371_1",
-    "url": "https://www.e.leclerc/pro/elia-2024-cotes-de-gascogne-igp-blanc-sec-75-cl"
   },
   {
     "nom": "J.Moreau & Fils Esprit de Montaigu, 2023 - Petit Chablis AOP - Blanc Sec - 75 cl",
@@ -11638,18 +11086,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760040423838_1",
     "url": "https://www.e.leclerc/pro/mas-des-tannes-2024-pays-d-oc-igp-blanc-75-cl"
-  },
-  {
-    "nom": "Tradition Royale, 2025 - Jurançon AOP - Blanc Sec - 75 cl",
-    "slug": "tradition-royale-2025-jurancon-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3300944350078_1",
-    "url": "https://www.e.leclerc/pro/tradition-royale-2025-jurancon-aop-blanc-sec-75-cl"
   },
   {
     "nom": "Domaine Tariquet \"Classic\" 2024 - Côtes de Gascogne IGP - Blanc Sec - 75 cl",
@@ -11868,18 +11304,6 @@
     "url": "https://www.e.leclerc/pro/bestheim-grand-cru-zinnkoepfle-2019-alsace-riesling-grand-cru-aop-blanc-sec-75-cl"
   },
   {
-    "nom": "Gérard Bertrand L'Indomptable de Cigalus BIO, 2024 - Pays d'Oc IGP - Blanc Sec - 75 cl",
-    "slug": "gerard-bertrand-l-indomptable-de-cigalus-bio-2024-pays-d-oc-igp-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3514120105387_1",
-    "url": "https://www.e.leclerc/pro/gerard-bertrand-l-indomptable-de-cigalus-bio-2024-pays-d-oc-igp-blanc-sec-75-cl"
-  },
-  {
     "nom": "Romain Duvernay, 2024 - Côtes du Rhône AOP - Blanc Sec - 75 cl",
     "slug": "romain-duvernay-2024-cotes-du-rhone-aop-blanc-sec-75-cl",
     "categorie": "vins-blancs",
@@ -11926,18 +11350,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760118601144_1",
     "url": "https://www.e.leclerc/pro/bleu-de-mer-2023-languedoc-igp-blanc-sec-75-cl"
-  },
-  {
-    "nom": "Villa Balestra , 2024 DOCG, Italie - Blanc -  75 cl",
-    "slug": "villa-balestra-2024-docg-italie-blanc-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8001592004621_1",
-    "url": "https://www.e.leclerc/pro/villa-balestra-2024-docg-italie-blanc-75-cl"
   },
   {
     "nom": "Horstaden, 2024 - Alsace Riesling AOP - Blanc Sec - 75 cl",
@@ -12144,18 +11556,6 @@
     "url": "https://www.e.leclerc/pro/cave-du-roi-dagobert-2023-alsace-gewurztraminer-aop-blanc-moelleux-75-cl"
   },
   {
-    "nom": "Mouton Cadet Sauvignon Blanc BIO, 2024 - Bordeaux Blanc AOP - Blanc Sec - 75 cl",
-    "slug": "mouton-cadet-sauvignon-blanc-bio-2024-bordeaux-blanc-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3262156174753_1",
-    "url": "https://www.e.leclerc/pro/mouton-cadet-sauvignon-blanc-bio-2024-bordeaux-blanc-aop-blanc-sec-75-cl"
-  },
-  {
     "nom": "Domaine les fuselières, 2024 - Cheverny AOP - Blanc Sec - 75 cl",
     "slug": "domaine-les-fuselieres-2024-cheverny-aop-blanc-sec-75-cl",
     "categorie": "vins-blancs",
@@ -12264,18 +11664,6 @@
     "url": "https://www.e.leclerc/pro/cepages-rares-2021-saint-mont-aop-blanc-sec-75-cl"
   },
   {
-    "nom": "Vignoble Roy Les Beaux Monts, 2024 - Valençay AOP - Blanc Sec - 75 cl",
-    "slug": "vignoble-roy-les-beaux-monts-2024-valencay-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760008680501_1",
-    "url": "https://www.e.leclerc/pro/vignoble-roy-les-beaux-monts-2024-valencay-aop-blanc-sec-75-cl"
-  },
-  {
     "nom": "Octave Lelat, 2024 - Pouilly-Loché AOP - Blanc Sec - 75 cl",
     "slug": "octave-lelat-2024-pouilly-loche-aop-blanc-sec-75-cl",
     "categorie": "vins-blancs",
@@ -12298,18 +11686,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3256817012034_1",
     "url": "https://www.e.leclerc/pro/l-heritiere-2025-luberon-aop-blanc-sec-75-cl"
-  },
-  {
-    "nom": "Gérard Bertrand Hérésie, 2024 - Corbières AOP - Blanc Sec - 75 cl",
-    "slug": "gerard-bertrand-heresie-2024-corbieres-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3514123117899_1",
-    "url": "https://www.e.leclerc/pro/gerard-bertrand-heresie-2024-corbieres-aop-blanc-sec-75-cl"
   },
   {
     "nom": "Gérard Bertrand La Réserve, 2023 - Picpoul-de-Pinet AOP - Blanc Sec - 75 cl",
@@ -12418,18 +11794,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3335760115082_1",
     "url": "https://www.e.leclerc/pro/michel-tissot-fils-macvin-du-jura-aop-blanc-sec-75-cl"
-  },
-  {
-    "nom": "Dourthe La Grande Cuvée, 2024 - Bordeaux Blanc AOP - Blanc Sec - 75 cl",
-    "slug": "dourthe-la-grande-cuvee-2024-bordeaux-blanc-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3258691331539_1",
-    "url": "https://www.e.leclerc/pro/dourthe-la-grande-cuvee-2024-bordeaux-blanc-aop-blanc-sec-75-cl"
   },
   {
     "nom": "Domaine Jo Pithon BIO, 2024 - Anjou AOP - Blanc Sec - 75 cl",
@@ -12912,18 +12276,6 @@
     "url": "https://www.e.leclerc/pro/jean-claude-mas-les-hauts-de-valmoure-2024-languedoc-aop-blanc-sec-75-cl"
   },
   {
-    "nom": "Devois des Agneaux BIO, 2024 - Languedoc AOP - Blanc Sec - 75 cl",
-    "slug": "devois-des-agneaux-bio-2024-languedoc-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3186128077739_1",
-    "url": "https://www.e.leclerc/pro/devois-des-agneaux-bio-2024-languedoc-aop-blanc-sec-75-cl"
-  },
-  {
     "nom": "Jean Claude Mas L'artisan des Cépages, 2024 - Languedoc IGP - Blanc Sec - 75 cl",
     "slug": "jean-claude-mas-l-artisan-des-cepages-2024-languedoc-igp-blanc-sec-75-cl",
     "categorie": "vins-blancs",
@@ -13296,30 +12648,6 @@
     "url": "https://www.e.leclerc/pro/octave-lelat-2022-pouilly-fuisse-aop-blanc-sec-75-cl"
   },
   {
-    "nom": "La botiniere, 2023 - Muscadet de Sèvre-et-Maine sur Lie AOP - Blanc Sec - 75 cl",
-    "slug": "la-botiniere-2023-muscadet-de-sevre-et-maine-sur-lie-aop-blanc-sec-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3032660089405_1",
-    "url": "https://www.e.leclerc/pro/la-botiniere-2023-muscadet-de-sevre-et-maine-sur-lie-aop-blanc-sec-75-cl"
-  },
-  {
-    "nom": "Domaine des Deux Vallées Les Justices, 2024 - Coteaux du Layon AOP - Blanc Moelleux - 75 cl",
-    "slug": "domaine-des-deux-vallees-les-justices-2024-coteaux-du-layon-aop-blanc-moelleux-75-cl",
-    "categorie": "vins-blancs",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3413030000204_1",
-    "url": "https://www.e.leclerc/pro/domaine-des-deux-vallees-les-justices-2024-coteaux-du-layon-aop-blanc-moelleux-75-cl"
-  },
-  {
     "nom": "Fieuzal, 2023 - Pessac-Léognan AOP - Blanc Sec - 75 cl",
     "slug": "fieuzal-2023-pessac-leognan-aop-blanc-sec-75-cl",
     "categorie": "vins-blancs",
@@ -13656,18 +12984,6 @@
     "url": "https://www.e.leclerc/pro/bb-rose-2025-mediterranee-igp-rose-75-cl"
   },
   {
-    "nom": "Mouton Cadet BIO, 2024 - Bordeaux AOP - Rosé - 75 cl",
-    "slug": "mouton-cadet-bio-2024-bordeaux-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3262156173756_1",
-    "url": "https://www.e.leclerc/pro/mouton-cadet-bio-2024-bordeaux-aop-rose-75-cl"
-  },
-  {
     "nom": "Magnum Studio By Miraval, 2025 - Méditerranée IGP - Rosé - 1.5 L",
     "slug": "magnum-studio-by-miraval-2025-mediterranee-igp-rose-1-5-l",
     "categorie": "vins-rosés",
@@ -13752,30 +13068,6 @@
     "url": "https://www.e.leclerc/pro/la-vieille-ferme-2025-vin-de-france-rose-75-cl"
   },
   {
-    "nom": "UBY Domus, 2025 - Côtes de Gascogne IGP - Rosé - 75 cl",
-    "slug": "uby-domus-2025-cotes-de-gascogne-igp-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760085610545_1",
-    "url": "https://www.e.leclerc/pro/uby-domus-2025-cotes-de-gascogne-igp-rose-75-cl"
-  },
-  {
-    "nom": "Elia 9%, 2025 - Côtes de Gascogne IGP - Rosé - 75 cl",
-    "slug": "elia-9-2025-cotes-de-gascogne-igp-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 9.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3270046020745_1",
-    "url": "https://www.e.leclerc/pro/elia-9-2025-cotes-de-gascogne-igp-rose-75-cl"
-  },
-  {
     "nom": "Brigitte Bardot, 2025 - Côtes de Provence IGP - Rosé - 75 cl",
     "slug": "brigitte-bardot-2025-cotes-de-provence-igp-rose-75-cl",
     "categorie": "vins-rosés",
@@ -13786,18 +13078,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3330620028939_1",
     "url": "https://www.e.leclerc/pro/brigitte-bardot-2025-cotes-de-provence-igp-rose-75-cl"
-  },
-  {
-    "nom": "Devois des Agneaux BIO, 2024 - Languedoc AOP - Rosé - 75 cl",
-    "slug": "devois-des-agneaux-bio-2024-languedoc-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3186128077678_1",
-    "url": "https://www.e.leclerc/pro/devois-des-agneaux-bio-2024-languedoc-aop-rose-75-cl"
   },
   {
     "nom": "Les vignerons de grimaud, 2025 - Côtes de Provence AOP - Rosé - 75 cl",
@@ -13858,18 +13138,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3296184016198_1",
     "url": "https://www.e.leclerc/pro/jeroboam-studio-by-miraval-2025-mediterranee-igp-rose-3-l"
-  },
-  {
-    "nom": "Cuvée Hortense, 2024 - Bordeaux Rosé AOP - Rosé - 75 cl",
-    "slug": "cuvee-hortense-2024-bordeaux-rose-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3176481017558_1",
-    "url": "https://www.e.leclerc/pro/cuvee-hortense-2024-bordeaux-rose-aop-rose-75-cl"
   },
   {
     "nom": "Dourthe La Grande Cuvée , 2024 - Bordeaux Rosé AOP - Rosé - 75 cl",
@@ -14086,18 +13354,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3269210253836_1",
     "url": "https://www.e.leclerc/pro/estandon-lumiere-2024-coteaux-varois-en-provence-aop-rose-75-cl"
-  },
-  {
-    "nom": "Gérard bertrand, 2025 - Corbières AOP - Rosé - 75 cl",
-    "slug": "gerard-bertrand-2025-corbieres-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3514123344622_1",
-    "url": "https://www.e.leclerc/pro/gerard-bertrand-2025-corbieres-aop-rose-75-cl"
   },
   {
     "nom": "Dumnacus Origines, 2024 - Cabernet d'Anjou AOC - Rosé - 75 cl",
@@ -14436,18 +13692,6 @@
     "url": "https://www.e.leclerc/pro/elia-2024-cotes-de-gascogne-igp-rose-75-cl"
   },
   {
-    "nom": "Charles de villeneuve, 2024 - Cabernet d'Anjou AOP - Rosé - 75 cl",
-    "slug": "charles-de-villeneuve-2024-cabernet-d-anjou-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3215191011101_1",
-    "url": "https://www.e.leclerc/pro/charles-de-villeneuve-2024-cabernet-d-anjou-aop-rose-75-cl"
-  },
-  {
     "nom": "Magnum LYV  - Pays d'Oc IGP - Rosé - 1.5 L",
     "slug": "magnum-lyv-pays-d-oc-igp-rose-1-5-l",
     "categorie": "vins-rosés",
@@ -14592,18 +13836,6 @@
     "url": "https://www.e.leclerc/pro/riviere-minervois-aop-rose-75-cl"
   },
   {
-    "nom": "Domaine uby, 2025 - Côtes de Gascogne IGP - Rosé - Bag in Box - 300 cl",
-    "slug": "domaine-uby-2025-cotes-de-gascogne-igp-rose-bag-in-box-300-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760085610507_1",
-    "url": "https://www.e.leclerc/pro/domaine-uby-2025-cotes-de-gascogne-igp-rose-bag-in-box-300-cl"
-  },
-  {
     "nom": "Villa Victorine Villa Victorine BIO, 2025 - Côtes de Provence AOP - Rosé - 75 cl",
     "slug": "villa-victorine-villa-victorine-bio-2025-cotes-de-provence-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -14650,18 +13882,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3701439608344_1",
     "url": "https://www.e.leclerc/pro/bleu-de-mer-2024-pays-d-oc-igp-rose-75-cl"
-  },
-  {
-    "nom": "Very, ESPAGNE - Rosé -  Bag in Box,  3 L",
-    "slug": "very-espagne-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3211209207948_1",
-    "url": "https://www.e.leclerc/pro/very-espagne-rose-bag-in-box-3-l"
   },
   {
     "nom": "A Boar Syrah, 2024 - Côtes de Gascogne IGP - Rosé - 75 cl",
@@ -14784,18 +14004,6 @@
     "url": "https://www.e.leclerc/pro/chateau-d-esclans-2025-cotes-de-provence-aop-rose-75-cl"
   },
   {
-    "nom": "Heritages , 2025 - Côtes du Rhône AOP - Rosé - 75 cl",
-    "slug": "heritages-2025-cotes-du-rhone-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3142806827768_1",
-    "url": "https://www.e.leclerc/pro/heritages-2025-cotes-du-rhone-aop-rose-75-cl"
-  },
-  {
     "nom": "Jardin de roses, 2025 - Languedoc AOP - Rosé - 75 cl",
     "slug": "jardin-de-roses-2025-languedoc-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -14880,18 +14088,6 @@
     "url": "https://www.e.leclerc/pro/by-ott-2024-cotes-de-provence-aop-rose-1500-cl"
   },
   {
-    "nom": "Saint michel, 2025 - Gaillac AOP - Rosé - 75 cl",
-    "slug": "saint-michel-2025-gaillac-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3272591660315_1",
-    "url": "https://www.e.leclerc/pro/saint-michel-2025-gaillac-aop-rose-75-cl"
-  },
-  {
     "nom": "Gérard Bertrand - Autrement Syrah BIO, 2022 - Pays d'Oc IGP - Rosé - 75 cl",
     "slug": "gerard-bertrand-autrement-syrah-bio-2022-pays-d-oc-igp-rose-75-cl",
     "categorie": "vins-rosés",
@@ -14914,18 +14110,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/3514120100290_1",
     "url": "https://www.e.leclerc/pro/gerard-bertrand-autrement-grenache-bio-2022-pays-d-oc-igp-rose-75-cl"
-  },
-  {
-    "nom": "L'Héritière, 2025 - Luberon AOP - Rosé - 75 cl",
-    "slug": "l-heritiere-2025-luberon-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3256811114925_1",
-    "url": "https://www.e.leclerc/pro/l-heritiere-2025-luberon-aop-rose-75-cl"
   },
   {
     "nom": "La Gordonne - Côtes de Provence AOP - Rosé - 75 cl",
@@ -14962,18 +14146,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3270250401354_1",
     "url": "https://www.e.leclerc/pro/chateau-de-crouseilles-carte-d-or-2024-bearn-aop-rose-75-cl"
-  },
-  {
-    "nom": "Bleu de Mer - Pays d'Oc IGP - Rosé - Bag in Box - 3 L",
-    "slug": "bleu-de-mer-pays-d-oc-igp-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760127872405_1",
-    "url": "https://www.e.leclerc/pro/bleu-de-mer-pays-d-oc-igp-rose-bag-in-box-3-l"
   },
   {
     "nom": "Rosé Piscine - Vinovalie - Les Vignerons d'Ovalie - Vin de France - Rosé - 75 cl",
@@ -15072,18 +14244,6 @@
     "url": "https://www.e.leclerc/pro/listel-gris-de-gris-languedoc-igp-rose-75-cl"
   },
   {
-    "nom": "Château des Cossé - Cabernet d'Anjou AOP - Rosé -  Bag in Box,  3 L",
-    "slug": "chateau-des-cosse-cabernet-d-anjou-aop-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3507110018484_1",
-    "url": "https://www.e.leclerc/pro/chateau-des-cosse-cabernet-d-anjou-aop-rose-bag-in-box-3-l"
-  },
-  {
     "nom": "Malesan, 2023 - Bordeaux Rosé AOP - Rosé - 75 cl",
     "slug": "malesan-2023-bordeaux-rose-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15094,30 +14254,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3180280415484_1",
     "url": "https://www.e.leclerc/pro/malesan-2023-bordeaux-rose-aop-rose-75-cl"
-  },
-  {
-    "nom": "Miss Anaïs - Pays d'Oc IGP - Rosé -  Bag in Box,  3 L",
-    "slug": "miss-anais-pays-d-oc-igp-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3045710046198_1",
-    "url": "https://www.e.leclerc/pro/miss-anais-pays-d-oc-igp-rose-bag-in-box-3-l"
-  },
-  {
-    "nom": "Honoré de Berticot - Atlantique IGP - Rosé - Bag in Box - 3 L",
-    "slug": "honore-de-berticot-atlantique-igp-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3259860951039_1",
-    "url": "https://www.e.leclerc/pro/honore-de-berticot-atlantique-igp-rose-bag-in-box-3-l"
   },
   {
     "nom": "LaCheteau Soupçon de Fruit, 2022 - Cabernet d'Anjou AOP - Rosé - 75 cl",
@@ -15204,18 +14340,6 @@
     "url": "https://www.e.leclerc/pro/reserve-du-president-2024-ile-de-beaute-igp-rose-75-cl"
   },
   {
-    "nom": "Maison Parsat - Var IGP - Rosé - Bag in Box - 5 L",
-    "slug": "maison-parsat-var-igp-rose-bag-in-box-5-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 5.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3394292405146_1",
-    "url": "https://www.e.leclerc/pro/maison-parsat-var-igp-rose-bag-in-box-5-l"
-  },
-  {
     "nom": "Estandon, 2022 - Bandol AOP - Rosé - 75 cl",
     "slug": "estandon-2022-bandol-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15226,18 +14350,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3280546122139_1",
     "url": "https://www.e.leclerc/pro/estandon-2022-bandol-aop-rose-75-cl"
-  },
-  {
-    "nom": "Esprit de graman, 2022 - Bordeaux Clairet AOP - Rosé - 75 cl",
-    "slug": "esprit-de-graman-2022-bordeaux-clairet-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3259869644536_1",
-    "url": "https://www.e.leclerc/pro/esprit-de-graman-2022-bordeaux-clairet-aop-rose-75-cl"
   },
   {
     "nom": "Château Sainte Roseline Cuvée des Chevaliers, 2020 - Côtes de Provence AOP - Rosé -  75 cl",
@@ -15408,18 +14520,6 @@
     "url": "https://www.e.leclerc/pro/cap-au-large-2023-mediterranee-igp-rose-75-cl"
   },
   {
-    "nom": "Pink Flamingo BIO - Sable de Camargue IGP - Rosé - Bag in Box - 3 L",
-    "slug": "pink-flamingo-bio-sable-de-camargue-igp-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3142703410902_1",
-    "url": "https://www.e.leclerc/pro/pink-flamingo-bio-sable-de-camargue-igp-rose-bag-in-box-3-l"
-  },
-  {
     "nom": "Alalia - Vin de Corse ou Corse AOP - Rosé - 75 cl",
     "slug": "alalia-vin-de-corse-ou-corse-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15456,18 +14556,6 @@
     "url": "https://www.e.leclerc/pro/les-embruns-bio-pays-d-oc-igp-rose-75-cl"
   },
   {
-    "nom": "La Petite Chapelle de Bordeaux - Bordeaux Rosé AOP - Rosé - Bag in Box - 3 L",
-    "slug": "la-petite-chapelle-de-bordeaux-bordeaux-rose-aop-rose-bag-in-box-3-l",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 3.0,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3662312005790_1",
-    "url": "https://www.e.leclerc/pro/la-petite-chapelle-de-bordeaux-bordeaux-rose-aop-rose-bag-in-box-3-l"
-  },
-  {
     "nom": "Château Reillanne Conscience - Côtes de Provence AOP - Rosé - 75 cl",
     "slug": "chateau-reillanne-conscience-cotes-de-provence-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15490,18 +14578,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/3547100220008_1",
     "url": "https://www.e.leclerc/pro/chateau-minuty-rose-et-or-2020-cotes-de-provence-aop-rose-75-cl"
-  },
-  {
-    "nom": "Terra vallona, 2025 - Comté Tolosan IGP - Rosé - 75 cl",
-    "slug": "terra-vallona-2025-comte-tolosan-igp-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3468000138951_1",
-    "url": "https://www.e.leclerc/pro/terra-vallona-2025-comte-tolosan-igp-rose-75-cl"
   },
   {
     "nom": "A Catena, 2024 - Île de Beauté IGP - Rosé - 75 cl",
@@ -15576,18 +14652,6 @@
     "url": "https://www.e.leclerc/pro/villa-moncigale-cicada-l-envol-2023-cotes-de-provence-aop-rose-75-cl"
   },
   {
-    "nom": "La Vieille Eglise, 2023 - Côtes du Marmandais AOP - Rosé - 75 cl",
-    "slug": "la-vieille-eglise-2023-cotes-du-marmandais-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3468000015627_1",
-    "url": "https://www.e.leclerc/pro/la-vieille-eglise-2023-cotes-du-marmandais-aop-rose-75-cl"
-  },
-  {
     "nom": "Le Jaja de Jau - Ben, 2022 - Pays d'Oc IGP - Rosé - 75 cl",
     "slug": "le-jaja-de-jau-ben-2022-pays-d-oc-igp-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15598,18 +14662,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3119460000820_1",
     "url": "https://www.e.leclerc/pro/le-jaja-de-jau-ben-2022-pays-d-oc-igp-rose-75-cl"
-  },
-  {
-    "nom": "Domaine C.Bousquet La Cabane de Charly, 2023 - Pays d'Oc IGP - Rosé - 75 cl",
-    "slug": "domaine-c-bousquet-la-cabane-de-charly-2023-pays-d-oc-igp-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3760206360045_1",
-    "url": "https://www.e.leclerc/pro/domaine-c-bousquet-la-cabane-de-charly-2023-pays-d-oc-igp-rose-75-cl"
   },
   {
     "nom": "Rivage Bleu, 2023 - Bandol AOP - Rosé - 75 cl",
@@ -15646,18 +14698,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3298020050151_1",
     "url": "https://www.e.leclerc/pro/les-vignobles-foncalieu-puy-cheri-2022-minervois-aop-rose-75-cl"
-  },
-  {
-    "nom": "Aimé Roquesante, 2024 - Côtes de Provence AOP - Rosé - 75 cl",
-    "slug": "aime-roquesante-2024-cotes-de-provence-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3211200252268_1",
-    "url": "https://www.e.leclerc/pro/aime-roquesante-2024-cotes-de-provence-aop-rose-75-cl"
   },
   {
     "nom": "Soupçon de Fruit, 2019 - Rosé de Loire AOC - Rosé -  75 cl",
@@ -15720,18 +14760,6 @@
     "url": "https://www.e.leclerc/pro/o-2021-ventoux-aop-rose-75-cl"
   },
   {
-    "nom": "Domaine des trois chênes , 2023 - Côtes de Provence AOP - Rosé - 75 cl",
-    "slug": "domaine-des-trois-chenes-2023-cotes-de-provence-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3770032831008_1",
-    "url": "https://www.e.leclerc/pro/domaine-des-trois-chenes-2023-cotes-de-provence-aop-rose-75-cl"
-  },
-  {
     "nom": "TERRES D'ESTANDON - Coteaux Varois en provence AOP - Rosé - 75 cl",
     "slug": "terres-d-estandon-coteaux-varois-en-provence-aop-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15742,18 +14770,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3269210256493_1",
     "url": "https://www.e.leclerc/pro/terres-d-estandon-coteaux-varois-en-provence-aop-rose-75-cl"
-  },
-  {
-    "nom": "Sangre de Toro - Rosé, 2019, Espagne - Rosé -  75 cl",
-    "slug": "sangre-de-toro-rose-2019-espagne-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/8410113002815_1",
-    "url": "https://www.e.leclerc/pro/sangre-de-toro-rose-2019-espagne-rose-75-cl"
   },
   {
     "nom": "Gold, 2020 - Côtes de Provence AOP - Rosé -  75 cl",
@@ -15778,18 +14794,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3269210255205_1",
     "url": "https://www.e.leclerc/pro/estandon-coteaux-varois-en-provence-aop-rose-75-cl"
-  },
-  {
-    "nom": "Charles de villeneuve, 2024 - Saumur AOP - Rosé - 75 cl",
-    "slug": "charles-de-villeneuve-2024-saumur-aop-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3215190013335_1",
-    "url": "https://www.e.leclerc/pro/charles-de-villeneuve-2024-saumur-aop-rose-75-cl"
   },
   {
     "nom": "Estandon BIO, 2023 - Côtes de Provence AOP - Rosé - 75 cl",
@@ -15924,18 +14928,6 @@
     "url": "https://www.e.leclerc/pro/domaine-de-la-morandiere-2023-chinon-aop-rose-75-cl"
   },
   {
-    "nom": "Un petit air de Rosé, 2020 - Pays d'Oc IGP - Rosé -  75 cl",
-    "slug": "un-petit-air-de-rose-2020-pays-d-oc-igp-rose-75-cl",
-    "categorie": "vins-rosés",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3701182600893_1",
-    "url": "https://www.e.leclerc/pro/un-petit-air-de-rose-2020-pays-d-oc-igp-rose-75-cl"
-  },
-  {
     "nom": "Gérard BERTRAND - Pays d'Oc IGP - Rosé - 75 cl",
     "slug": "gerard-bertrand-pays-d-oc-igp-rose-75-cl",
     "categorie": "vins-rosés",
@@ -15946,18 +14938,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3514123115727_1",
     "url": "https://www.e.leclerc/pro/gerard-bertrand-pays-d-oc-igp-rose-75-cl"
-  },
-  {
-    "nom": "Get 27, 17,9% vol. - 70 cl",
-    "slug": "get-27-17-9-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 17.9,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/7610113019214_1",
-    "url": "https://www.e.leclerc/pro/get-27-17-9-vol-70-cl"
   },
   {
     "nom": "Whisky Blend  Chivas Gold Signature 18 ans - Ecosse, 40% vol. - 70 cl",
@@ -15984,18 +14964,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-malt-lagavulin-avec-etui-16-ans-ecosse-43-vol-70-cl"
   },
   {
-    "nom": "Whisky Single Malt  Connemara Peated Single Malt - Irlande, 40% vol. - 70 cl",
-    "slug": "whisky-single-malt-connemara-peated-single-malt-irlande-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5099357002305_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-connemara-peated-single-malt-irlande-40-vol-70-cl"
-  },
-  {
     "nom": "Whisky Blended whisky  Crown Royal - CANADA, 40 % vol - 100 cl",
     "slug": "whisky-blended-whisky-crown-royal-canada-40-vol-100-cl",
     "categorie": "spiritueux",
@@ -16018,18 +14986,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/5055966810120_1",
     "url": "https://www.e.leclerc/pro/whisky-blend-bushmills-black-bush-7-ans-irlande-40-vol-70-cl"
-  },
-  {
-    "nom": "Rhum traditionnel Charrette - Réunion, 40 % vol. - Bag in Box - 2 L",
-    "slug": "rhum-traditionnel-charrette-reunion-40-vol-bag-in-box-2-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 2.0,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3770003553236_1",
-    "url": "https://www.e.leclerc/pro/rhum-traditionnel-charrette-reunion-40-vol-bag-in-box-2-l"
   },
   {
     "nom": "Giffard Menthe Pastille - 70 cl",
@@ -16056,18 +15012,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-malt-aberlour-ecosse-40-vol-70-cl"
   },
   {
-    "nom": "Rhum traditionnel Charrette - Réunion, 49% vol. - 1 L",
-    "slug": "rhum-traditionnel-charrette-reunion-49-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 49.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3377450000018_1",
-    "url": "https://www.e.leclerc/pro/rhum-traditionnel-charrette-reunion-49-vol-1-l"
-  },
-  {
     "nom": "Jinro Soju Grapefruit  - 35 cl",
     "slug": "jinro-soju-grapefruit-35-cl",
     "categorie": "spiritueux",
@@ -16090,18 +15034,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/5011013500703_1",
     "url": "https://www.e.leclerc/pro/sheridan-s-50-cl"
-  },
-  {
-    "nom": "Rhum agricole Damoiseau - Guadeloupe, 50 % vol. - 1 L",
-    "slug": "rhum-agricole-damoiseau-guadeloupe-50-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 50.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3290370000015_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-damoiseau-guadeloupe-50-vol-1-l"
   },
   {
     "nom": "Whisky Blended whisky  Chivas Regal 12 ans - Royaume Uni, 40 % vol. - 70 cl",
@@ -16128,18 +15060,6 @@
     "url": "https://www.e.leclerc/pro/whisky-blended-d-u-c-triple-cask-france-40-vol-70-cl"
   },
   {
-    "nom": "Whisky Blend  Bushmills Original  - Irlande, 40% vol. - 70 cl",
-    "slug": "whisky-blend-bushmills-original-irlande-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5055966801128_1",
-    "url": "https://www.e.leclerc/pro/whisky-blend-bushmills-original-irlande-40-vol-70-cl"
-  },
-  {
     "nom": "Jinro - 35 cl",
     "slug": "jinro-35-cl",
     "categorie": "spiritueux",
@@ -16164,30 +15084,6 @@
     "url": "https://www.e.leclerc/pro/muscat-de-frontignan-aop-frontignan-premier-blanc-2-25-l"
   },
   {
-    "nom": "Rhum agricole HSE - Martinique, 50% vol. - 70 cl",
-    "slug": "rhum-agricole-hse-martinique-50-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 50.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3328731200016_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-hse-martinique-50-vol-70-cl"
-  },
-  {
-    "nom": "Ricard Pastis de Marseille - 1 L",
-    "slug": "ricard-pastis-de-marseille-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3163937010003_1",
-    "url": "https://www.e.leclerc/pro/ricard-pastis-de-marseille-1-l"
-  },
-  {
     "nom": "Whisky Single Malt  Glen Grant Arboralis - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-single-malt-glen-grant-arboralis-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -16198,18 +15094,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5024576000054_1",
     "url": "https://www.e.leclerc/pro/whisky-single-malt-glen-grant-arboralis-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Giffard Crème de Fleur de Sureau, 16 % vol. - 50 cl",
-    "slug": "giffard-creme-de-fleur-de-sureau-16-vol-50-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.5,
-    "degre_pct": 16.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3180290093757_1",
-    "url": "https://www.e.leclerc/pro/giffard-creme-de-fleur-de-sureau-16-vol-50-cl"
   },
   {
     "nom": "Whisky Single Malt  Caol Ila 12 ans - Ecosse, 43% vol. - 70 cl",
@@ -16234,18 +15118,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/7630040401920_1",
     "url": "https://www.e.leclerc/pro/martini-rossini-italie-brut-rose-75-cl"
-  },
-  {
-    "nom": "Rhum vieux agricole JM Terroir Volcanique  - Martinique, 43% vol. - 70 cl",
-    "slug": "rhum-vieux-agricole-jm-terroir-volcanique-martinique-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3329060003521_1",
-    "url": "https://www.e.leclerc/pro/rhum-vieux-agricole-jm-terroir-volcanique-martinique-43-vol-70-cl"
   },
   {
     "nom": "Tennessee Whiskey  Jack Daniel's Old No.7 - Etats-Unis, 40% vol. - 1 L",
@@ -16392,30 +15264,6 @@
     "url": "https://www.e.leclerc/pro/remy-cointreau-l-unique-40-vol-70-cl"
   },
   {
-    "nom": "Rhum traditionnel Ryoma - Japon, 40 % vol. - 70 cl",
-    "slug": "rhum-traditionnel-ryoma-japon-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/4989501114569_1",
-    "url": "https://www.e.leclerc/pro/rhum-traditionnel-ryoma-japon-40-vol-70-cl"
-  },
-  {
-    "nom": "Rhum agricole HSE - Martinique, 40 % vol. - 2 L",
-    "slug": "rhum-agricole-hse-martinique-40-vol-2-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 2.0,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3328731010028_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-hse-martinique-40-vol-2-l"
-  },
-  {
     "nom": "Bailey's Strawberry - 70 cl",
     "slug": "bailey-s-strawberry-70-cl",
     "categorie": "spiritueux",
@@ -16476,30 +15324,6 @@
     "url": "https://www.e.leclerc/pro/whisky-blend-togouchi-premium-japon-40-vol-70-cl"
   },
   {
-    "nom": "Giffard Amaretto - 50 cl",
-    "slug": "giffard-amaretto-50-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.5,
-    "degre_pct": 28,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3180290018989_1",
-    "url": "https://www.e.leclerc/pro/giffard-amaretto-50-cl"
-  },
-  {
-    "nom": "Vodka Sobieski, 37,5 % vol. - 1 L",
-    "slug": "vodka-sobieski-37-5-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5902738884554_1",
-    "url": "https://www.e.leclerc/pro/vodka-sobieski-37-5-vol-1-l"
-  },
-  {
     "nom": "Whisky Single Malt  Aberlour Speyside 12 ans - Ecosse, 40% vol. - 70 cl",
     "slug": "whisky-single-malt-aberlour-speyside-12-ans-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -16536,18 +15360,6 @@
     "url": "https://www.e.leclerc/pro/italicus"
   },
   {
-    "nom": "Vodka Poliakov Pure Grain Triple Distilled, 37,5% vol.  - 70 cl",
-    "slug": "vodka-poliakov-pure-grain-triple-distilled-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3147690061007_1",
-    "url": "https://www.e.leclerc/pro/vodka-poliakov-pure-grain-triple-distilled-37-5-vol-70-cl"
-  },
-  {
     "nom": "Isautier Arrangé Cahouete - 50 cl",
     "slug": "isautier-arrange-cahouete-50-cl",
     "categorie": "spiritueux",
@@ -16558,18 +15370,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3283770211310_1",
     "url": "https://www.e.leclerc/pro/isautier-arrange-cahouete-50-cl"
-  },
-  {
-    "nom": "Bailey's The Original - 70 cl",
-    "slug": "bailey-s-the-original-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5011013100156_1",
-    "url": "https://www.e.leclerc/pro/bailey-s-the-original-70-cl"
   },
   {
     "nom": "Whisky Blend  Ballantine's Finest - Ecosse, 40% vol. - 1L",
@@ -16606,18 +15406,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/8801048179107_1",
     "url": "https://www.e.leclerc/pro/jinro-soju-green-grape-35-cl"
-  },
-  {
-    "nom": "Whisky Blended whisky  Chivas Regal Coffret 12 ans - Ecosse, 40% vol. - 70 cl",
-    "slug": "whisky-blended-whisky-chivas-regal-coffret-12-ans-ecosse-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3163932626179_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-chivas-regal-coffret-12-ans-ecosse-40-vol-70-cl"
   },
   {
     "nom": "Whisky Blend  Akashi - Japon, 40% vol. - 50 cl",
@@ -16740,18 +15528,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-malt-aberlour-triple-cask-highland-ecosse-40-vol-70-cl"
   },
   {
-    "nom": "Whisky Single Malt  Kilchoman Loch Gruinart - Ecosse, 46 % vol. - 70 cl",
-    "slug": "whisky-single-malt-kilchoman-loch-gruinart-ecosse-46-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 46.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5060210703110_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-kilchoman-loch-gruinart-ecosse-46-vol-70-cl"
-  },
-  {
     "nom": "Whisky Blended whisky  The Deacon - Royaume Uni, 40 % vol. - 70 cl",
     "slug": "whisky-blended-whisky-the-deacon-royaume-uni-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -16762,18 +15538,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/0813497003047_1",
     "url": "https://www.e.leclerc/pro/whisky-blended-whisky-the-deacon-royaume-uni-40-vol-70-cl"
-  },
-  {
-    "nom": "Rum Don Papa - PHILIPPINES, 40 % vol. - 70 cl",
-    "slug": "rum-don-papa-philippines-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/4809015157770_1",
-    "url": "https://www.e.leclerc/pro/rum-don-papa-philippines-40-vol-70-cl"
   },
   {
     "nom": "Whisky Blended whisky  Gwalarn - France, 40% vol. - 70 cl",
@@ -16798,18 +15562,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/5010327105215_1",
     "url": "https://www.e.leclerc/pro/whisky-blended-malt-monkey-shoulder-the-original-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Single Malt  Oban 14 ans - Ecosse, 43% vol. - 70 cl",
-    "slug": "whisky-single-malt-oban-14-ans-ecosse-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5000281005447_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-oban-14-ans-ecosse-43-vol-70-cl"
   },
   {
     "nom": "Whisky Single Malt  Bushmills - IRLANDE, 40 % vol. - 70 cl",
@@ -16860,18 +15612,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-malt-ardbeg-the-ultimate-10-ans-ecosse-40-vol-70-cl"
   },
   {
-    "nom": "Vodka Zubrowka, 37,5 % vol. - 1 L",
-    "slug": "vodka-zubrowka-37-5-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5900343010160_1",
-    "url": "https://www.e.leclerc/pro/vodka-zubrowka-37-5-vol-1-l"
-  },
-  {
     "nom": "Rhum vieux Bumbu Original  - Etats Unis, 40 % vol. - 70 cl",
     "slug": "rhum-vieux-bumbu-original-etats-unis-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -16884,30 +15624,6 @@
     "url": "https://www.e.leclerc/pro/rhum-vieux-bumbu-original-etats-unis-40-vol-70-cl"
   },
   {
-    "nom": "Bailey's The Original - 1 L",
-    "slug": "bailey-s-the-original-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5011013100118_1",
-    "url": "https://www.e.leclerc/pro/bailey-s-the-original-1-l"
-  },
-  {
-    "nom": "Whisky Single Malt  Monkey Shoulder - Ecosse, 40 % vol. - 1 L",
-    "slug": "whisky-single-malt-monkey-shoulder-ecosse-40-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010327603056_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-monkey-shoulder-ecosse-40-vol-1-l"
-  },
-  {
     "nom": "Rhum vieux Don Papa Guyama 15 ans - panama, 40% vol. - 70 cl",
     "slug": "rhum-vieux-don-papa-guyama-15-ans-panama-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -16918,30 +15634,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/4809015157848_1",
     "url": "https://www.e.leclerc/pro/rhum-vieux-don-papa-guyama-15-ans-panama-40-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Blended Chivas Regal - Ecosse, 40 % vol. - 1 L",
-    "slug": "whisky-blended-chivas-regal-ecosse-40-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/0080432400432_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-chivas-regal-ecosse-40-vol-1-l"
-  },
-  {
-    "nom": "Rhum agricole Neisson - Martinique, 55 % vol. - 1 L",
-    "slug": "rhum-agricole-neisson-martinique-55-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 55.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3287480000035_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-neisson-martinique-55-vol-1-l"
   },
   {
     "nom": "Amer Fernet-Branca, 39% vol. - 70 cl",
@@ -17014,18 +15706,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5010677850100_1",
     "url": "https://www.e.leclerc/pro/vodka-grey-goose-original-40-vol-70-cl"
-  },
-  {
-    "nom": "Rhum agricole HSE - Martinique, 55% vol. - 1 L",
-    "slug": "rhum-agricole-hse-martinique-55-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 55.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3328731030019_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-hse-martinique-55-vol-1-l"
   },
   {
     "nom": "Rum Plantation - Barbade, 40 % vol. - 70 cl",
@@ -17196,18 +15876,6 @@
     "url": "https://www.e.leclerc/pro/picon-1-l"
   },
   {
-    "nom": "Whisky Blended Malt  - France - France Tails, 40 % vol. - 70 cl",
-    "slug": "whisky-blended-malt-france-france-tails-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760042528340_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-malt-france-france-tails-40-vol-70-cl"
-  },
-  {
     "nom": "Saké Misen Ginjo - 72 cl",
     "slug": "sake-misen-ginjo-72-cl",
     "categorie": "spiritueux",
@@ -17254,18 +15922,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3180290064832_1",
     "url": "https://www.e.leclerc/pro/giffard-preparation-pour-soupe-angevine-pamplemousse-rose-50-cl"
-  },
-  {
-    "nom": "Whisky Single Malt Glenkinchie avec étui 12 ans - Ecosse, 43% vol. - 70 cl",
-    "slug": "whisky-single-malt-glenkinchie-avec-etui-12-ans-ecosse-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5000281021942_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-glenkinchie-avec-etui-12-ans-ecosse-43-vol-70-cl"
   },
   {
     "nom": "Rhum agricole Rhum Clément - Martinique, 40 % vol. - 70 cl",
@@ -17448,18 +16104,6 @@
     "url": "https://www.e.leclerc/pro/gin-bombay-sapphire-40-vol-70-cl"
   },
   {
-    "nom": "Rum The Kraken Black Spiced - Etats Unis, 40% vol. - 70 cl",
-    "slug": "rum-the-kraken-black-spiced-etats-unis-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/0811538013062_1",
-    "url": "https://www.e.leclerc/pro/rum-the-kraken-black-spiced-etats-unis-40-vol-70-cl"
-  },
-  {
     "nom": "Giffard Crème de Rhubarbe - 50 cl",
     "slug": "giffard-creme-de-rhubarbe-50-cl",
     "categorie": "spiritueux",
@@ -17470,18 +16114,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3180290105337_1",
     "url": "https://www.e.leclerc/pro/giffard-creme-de-rhubarbe-50-cl"
-  },
-  {
-    "nom": "Rhum agricole Dillon - MARTINIQUE, 55 % vol. - 1 L",
-    "slug": "rhum-agricole-dillon-martinique-55-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 55.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3012991301001_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-dillon-martinique-55-vol-1-l"
   },
   {
     "nom": "Grand Marnier Cordon Rouge - 70 cl",
@@ -17520,18 +16152,6 @@
     "url": "https://www.e.leclerc/pro/porto-aop-sandeman-fine-ruby-rouge-75-cl"
   },
   {
-    "nom": "Rhum  Trois Rivières - France, 40 % vol. - 70 cl",
-    "slug": "rhum-trois-rivieres-france-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3267130027933_1",
-    "url": "https://www.e.leclerc/pro/rhum-trois-rivieres-france-40-vol-70-cl"
-  },
-  {
     "nom": "Whisky Pot Still  Redbreast - IRLANDE, 40 % vol. - 70 cl",
     "slug": "whisky-pot-still-redbreast-irlande-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -17566,18 +16186,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3163932531473_1",
     "url": "https://www.e.leclerc/pro/whisky-single-malt-aberlour-white-oak-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Bourbon Woodford - Etats-Unis, 43,2% vol. - 70 cl",
-    "slug": "bourbon-woodford-etats-unis-43-2-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.2,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5099873025871_1",
-    "url": "https://www.e.leclerc/pro/bourbon-woodford-etats-unis-43-2-vol-70-cl"
   },
   {
     "nom": "Whisky Blended Malt  Yushan Sous Etui - Taïwan, 40% vol. - 70 cl",
@@ -17616,18 +16224,6 @@
     "url": "https://www.e.leclerc/pro/isautier-arrange-gato-patat-50-cl"
   },
   {
-    "nom": "Jack Daniel's Honey - ETATS-UNIS, 35% vol. - 70 cl",
-    "slug": "jack-daniel-s-honey-etats-unis-35-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 35.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5099873001370_1",
-    "url": "https://www.e.leclerc/pro/jack-daniel-s-honey-etats-unis-35-vol-70-cl"
-  },
-  {
     "nom": "Whisky Single Malt  Cardhu sous étui 12 ans - Ecosse, 40% vol. - 70 cl",
     "slug": "whisky-single-malt-cardhu-sous-etui-12-ans-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -17664,18 +16260,6 @@
     "url": "https://www.e.leclerc/pro/noilly-prat-75-cl"
   },
   {
-    "nom": "Whisky Blend  Toki - Japon, 43% vol. - 70 cl",
-    "slug": "whisky-blend-toki-japon-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/4901777303553_1",
-    "url": "https://www.e.leclerc/pro/whisky-blend-toki-japon-43-vol-70-cl"
-  },
-  {
     "nom": "Whisky Blended Malt  Togouchi - Japon, 40 % vol. - 70 cl",
     "slug": "whisky-blended-malt-togouchi-japon-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -17700,30 +16284,6 @@
     "url": "https://www.e.leclerc/pro/vodka-grey-goose-le-citron-40-vol-70-cl"
   },
   {
-    "nom": "Jack Daniel's NO7  40% Vol. - 70cl",
-    "slug": "jack-daniel-s-no7-40-vol-70cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3099873045864_1",
-    "url": "https://www.e.leclerc/pro/jack-daniel-s-no7-40-vol-70cl"
-  },
-  {
-    "nom": "Whisky Blended whisky  Ballantine's - Ecosse, 40 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-ballantine-s-ecosse-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010106113127_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-ballantine-s-ecosse-40-vol-70-cl"
-  },
-  {
     "nom": "Whisky Single Malt  Tamnavulin - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-single-malt-tamnavulin-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -17734,18 +16294,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5013967016620_1",
     "url": "https://www.e.leclerc/pro/whisky-single-malt-tamnavulin-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Single Malt  Laphroaig - Ecosse, 40 % vol. - 70 cl",
-    "slug": "whisky-single-malt-laphroaig-ecosse-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010019000163_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-laphroaig-ecosse-40-vol-70-cl"
   },
   {
     "nom": "Vodka Absolut Vodka, 40% vol. - 70 cl",
@@ -17964,18 +16512,6 @@
     "url": "https://www.e.leclerc/pro/rhum-agricole-rhum-clement-vo-prestige-martinique-40-vol-35-cl"
   },
   {
-    "nom": "Whisky Blended whisky  Glenfiddich - Ecosse, 43 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-glenfiddich-ecosse-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010327324333_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-glenfiddich-ecosse-43-vol-70-cl"
-  },
-  {
     "nom": "Mionetto Aperitivo Spritz - 1 L",
     "slug": "mionetto-aperitivo-spritz-1-l",
     "categorie": "spiritueux",
@@ -18180,18 +16716,6 @@
     "url": "https://www.e.leclerc/pro/riviere-du-mat-arrange-banane-vanillee-70-cl"
   },
   {
-    "nom": "Porto AOP Ferreira - Rouge - 75 cl",
-    "slug": "porto-aop-ferreira-rouge-75-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 19,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5601007001011_1",
-    "url": "https://www.e.leclerc/pro/porto-aop-ferreira-rouge-75-cl"
-  },
-  {
     "nom": "La Mauny Ananas - 70 cl",
     "slug": "la-mauny-ananas-70-cl",
     "categorie": "spiritueux",
@@ -18216,18 +16740,6 @@
     "url": "https://www.e.leclerc/pro/rhum-agricole-bologne-cask-matured-guadeloupe-42-vol-70-cl"
   },
   {
-    "nom": "Whisky Blend J&B Rare - Ecosse, 40% vol. - 1 L",
-    "slug": "whisky-blend-j-b-rare-ecosse-40-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010103800457_1",
-    "url": "https://www.e.leclerc/pro/whisky-blend-j-b-rare-ecosse-40-vol-1-l"
-  },
-  {
     "nom": "Saint Germain Liqueur Saint-Germain - 50 cl",
     "slug": "saint-germain-liqueur-saint-germain-50-cl",
     "categorie": "spiritueux",
@@ -18250,18 +16762,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/5000291023462_1",
     "url": "https://www.e.leclerc/pro/gin-tanqueray-flor-de-sevilla-41-3-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Single Malt  Bowmore 9 ans - Ecosse, 40% vol. - 70 cl",
-    "slug": "whisky-single-malt-bowmore-9-ans-ecosse-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5010496006191_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-bowmore-9-ans-ecosse-40-vol-70-cl"
   },
   {
     "nom": "Giffard Menthe Pastille  - 1.5 L",
@@ -18540,30 +17040,6 @@
     "url": "https://www.e.leclerc/pro/whisky-blended-malt-big-peat-ecosse-46-vol-70-cl"
   },
   {
-    "nom": "Giffard Crème de Châtaigne - 50 cl",
-    "slug": "giffard-creme-de-chataigne-50-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.5,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3180290031049_1",
-    "url": "https://www.e.leclerc/pro/giffard-creme-de-chataigne-50-cl"
-  },
-  {
-    "nom": "Vodka Eristoff Original, 37,5% vol. - 70 cl",
-    "slug": "vodka-eristoff-original-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8410414000466_1",
-    "url": "https://www.e.leclerc/pro/vodka-eristoff-original-37-5-vol-70-cl"
-  },
-  {
     "nom": "Vodka Absolut, 40 % vol. - 35 cl",
     "slug": "vodka-absolut-40-vol-35-cl",
     "categorie": "spiritueux",
@@ -18624,18 +17100,6 @@
     "url": "https://www.e.leclerc/pro/rhum-agricole-jm-martinique-50-vol-1-l"
   },
   {
-    "nom": "Pineau des Charentes AOP Jules Gautret - Rouge - 75 cl",
-    "slug": "pineau-des-charentes-aop-jules-gautret-rouge-75-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3044422200058_1",
-    "url": "https://www.e.leclerc/pro/pineau-des-charentes-aop-jules-gautret-rouge-75-cl"
-  },
-  {
     "nom": "Whisky Tullamore The Legendary / Dew - Irlande, 40% vol. - 1L",
     "slug": "whisky-tullamore-the-legendary-dew-irlande-40-vol-1l",
     "categorie": "spiritueux",
@@ -18658,18 +17122,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3290370006079_1",
     "url": "https://www.e.leclerc/pro/damoiseau-arrange-mangue-passion-70-cl"
-  },
-  {
-    "nom": "Pastis 12/12 - 70 cl",
-    "slug": "pastis-12-12-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3770018359229_1",
-    "url": "https://www.e.leclerc/pro/pastis-12-12-70-cl"
   },
   {
     "nom": "Banyuls AOP Les Vignes du vent - Rouge - 75 cl",
@@ -18730,18 +17182,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3041311025853_1",
     "url": "https://www.e.leclerc/pro/berger-pastis-1-l"
-  },
-  {
-    "nom": "Vodka Belvedere BIO, 40 % vol. - 70 cl",
-    "slug": "vodka-belvedere-bio-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5901867817167_1",
-    "url": "https://www.e.leclerc/pro/vodka-belvedere-bio-40-vol-70-cl"
   },
   {
     "nom": "Whisky The Busker - Irlande, 40 % vol. - 70 cl",
@@ -19068,18 +17508,6 @@
     "url": "https://www.e.leclerc/pro/ron-eminente-cuba-40-3-vol-70-cl"
   },
   {
-    "nom": "Vodka Eristoff Pink, 18 % vol. - 70 cl",
-    "slug": "vodka-eristoff-pink-18-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 18.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7610113014448_1",
-    "url": "https://www.e.leclerc/pro/vodka-eristoff-pink-18-vol-70-cl"
-  },
-  {
     "nom": "Aperol - 1.5 L",
     "slug": "aperol-1-5-l",
     "categorie": "spiritueux",
@@ -19174,18 +17602,6 @@
     "ratio_estime": true,
     "image": "https://fgellaobb.filerobot.com/3147699116630_1",
     "url": "https://www.e.leclerc/pro/riviere-du-mat-arrange-coco-torrefie-70-cl"
-  },
-  {
-    "nom": "Whisky Blended whisky Togouchi Coffret Beer Cask Finish + 2 verres - JAPON, 40 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-togouchi-coffret-beer-cask-finish-2-verres-japon-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760042529491_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-togouchi-coffret-beer-cask-finish-2-verres-japon-40-vol-70-cl"
   },
   {
     "nom": "Vodka Eristoff Black, 18 % vol. - 70 cl",
@@ -19344,18 +17760,6 @@
     "url": "https://www.e.leclerc/pro/marie-brizard-fleur-de-sureau-70-cl"
   },
   {
-    "nom": "Ricard Pastis de Marseille - 1.5 L",
-    "slug": "ricard-pastis-de-marseille-1-5-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.5,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3163937016005_1",
-    "url": "https://www.e.leclerc/pro/ricard-pastis-de-marseille-1-5-l"
-  },
-  {
     "nom": "La Mentheuse - 70 cl",
     "slug": "la-mentheuse-70-cl",
     "categorie": "spiritueux",
@@ -19450,18 +17854,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3432370003713_1",
     "url": "https://www.e.leclerc/pro/les-arranges-divins-ananas-citron-vert-poivre-de-timut-70-cl"
-  },
-  {
-    "nom": "Ricard Pastis de Marseille - 70 cl",
-    "slug": "ricard-pastis-de-marseille-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3163937011000_1",
-    "url": "https://www.e.leclerc/pro/ricard-pastis-de-marseille-70-cl"
   },
   {
     "nom": "Rhum agricole HSE Ragtime - Martinique, 40% vol. - 70 cl",
@@ -19656,18 +18048,6 @@
     "url": "https://www.e.leclerc/pro/riviere-du-mat-arrange-vanille-des-tropiques-70-cl"
   },
   {
-    "nom": "Whisky Blended whisky  Togouchi Coffret Premium + 2 verres - Japon, 40 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-togouchi-coffret-premium-2-verres-japon-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760042529866_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-togouchi-coffret-premium-2-verres-japon-40-vol-70-cl"
-  },
-  {
     "nom": "Whisky Blended whisky  Ballantine's 17 ans - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-blended-whisky-ballantine-s-17-ans-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -19692,18 +18072,6 @@
     "url": "https://www.e.leclerc/pro/muscat-de-rivesaltes-aop-les-vignes-du-vent-archimage-blanc-75-cl"
   },
   {
-    "nom": "Whisky Single Malt  Maison Lacroix Whisky maison lacroix 50cl 40° - France, 40 % vol. - 50 cl",
-    "slug": "whisky-single-malt-maison-lacroix-whisky-maison-lacroix-50cl-40-france-40-vol-50-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.5,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760042529637_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-maison-lacroix-whisky-maison-lacroix-50cl-40-france-40-vol-50-cl"
-  },
-  {
     "nom": "Gin Hendrick's, 41,4% vol. - 70 cl",
     "slug": "gin-hendrick-s-41-4-vol-70-cl",
     "categorie": "spiritueux",
@@ -19714,18 +18082,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/5010327755014_1",
     "url": "https://www.e.leclerc/pro/gin-hendrick-s-41-4-vol-70-cl"
-  },
-  {
-    "nom": "Maison Janot Pastis Bleu - 70 cl",
-    "slug": "maison-janot-pastis-bleu-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3047960010141_1",
-    "url": "https://www.e.leclerc/pro/maison-janot-pastis-bleu-70-cl"
   },
   {
     "nom": "Les Arrangés Divins Passion Ananas - 70 cl",
@@ -19860,18 +18216,6 @@
     "url": "https://www.e.leclerc/pro/porto-aop-rozes-infanta-isabel-10-ans-ambre-75-cl"
   },
   {
-    "nom": "Whisky Single Malt Old Pulteney 12 ans - Ecosse, 40% vol. - 70 cl",
-    "slug": "whisky-single-malt-old-pulteney-12-ans-ecosse-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5010509060028_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-old-pulteney-12-ans-ecosse-40-vol-70-cl"
-  },
-  {
     "nom": "Vodka Ciroc Limonade Fraise, 30 % vol. - 70 cl",
     "slug": "vodka-ciroc-limonade-fraise-30-vol-70-cl",
     "categorie": "spiritueux",
@@ -19980,30 +18324,6 @@
     "url": "https://www.e.leclerc/pro/les-arranges-divins-adrenaline-70-cl"
   },
   {
-    "nom": "Jack Daniel's Apple - ETATS-UNIS, 35% vol. - 70 cl",
-    "slug": "jack-daniel-s-apple-etats-unis-35-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 35.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5099873017623_1",
-    "url": "https://www.e.leclerc/pro/jack-daniel-s-apple-etats-unis-35-vol-70-cl"
-  },
-  {
-    "nom": "Pastis 51 - 1 L",
-    "slug": "pastis-51-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3047100000230_1",
-    "url": "https://www.e.leclerc/pro/pastis-51-1-l"
-  },
-  {
     "nom": "Ron Quorhum - République Dominicaine, 40% vol. - 70 cl",
     "slug": "ron-quorhum-republique-dominicaine-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -20088,18 +18408,6 @@
     "url": "https://www.e.leclerc/pro/muscat-de-rivesaltes-aop-les-vignes-du-vent-grande-appellation-blanc-75-cl"
   },
   {
-    "nom": "Whisky Single Malt  Jack Daniel's Old N°7 - 1,5L - Etats-Unis, 40% vol. - 1.5 L",
-    "slug": "whisky-single-malt-jack-daniel-s-old-n-7-1-5l-etats-unis-40-vol-1-5-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.5,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5099873045305_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-jack-daniel-s-old-n-7-1-5l-etats-unis-40-vol-1-5-l"
-  },
-  {
     "nom": "Whisky Single Malt  Isle of Jura Winter Cask Edition - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-single-malt-isle-of-jura-winter-cask-edition-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -20134,18 +18442,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5013967017849_1",
     "url": "https://www.e.leclerc/pro/whisky-single-malt-isle-of-jura-rum-cask-finish-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Eristoff Passion, 18 % vol. - 70 cl",
-    "slug": "vodka-eristoff-passion-18-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 18.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7610113014479_1",
-    "url": "https://www.e.leclerc/pro/vodka-eristoff-passion-18-vol-70-cl"
   },
   {
     "nom": "Tennessee whiskey Jack Daniels - ETATS-UNIS, 50 % vol. - 70 cl",
@@ -20208,18 +18504,6 @@
     "url": "https://www.e.leclerc/pro/tequila-san-jose-35-vol-70-cl"
   },
   {
-    "nom": "Ron Havana Club Anejo 3 anos - CUBA, 37,5% vol. - 1 L",
-    "slug": "ron-havana-club-anejo-3-anos-cuba-37-5-vol-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/8501110089982_1",
-    "url": "https://www.e.leclerc/pro/ron-havana-club-anejo-3-anos-cuba-37-5-vol-1-l"
-  },
-  {
     "nom": "Whisky Blended whisky  Sir Edward's - Ecosse, 40 % vol. - 1 L",
     "slug": "whisky-blended-whisky-sir-edward-s-ecosse-40-vol-1-l",
     "categorie": "spiritueux",
@@ -20230,18 +18514,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3012992421005_1",
     "url": "https://www.e.leclerc/pro/whisky-blended-whisky-sir-edward-s-ecosse-40-vol-1-l"
-  },
-  {
-    "nom": "Vodka Eristoff Red, 18 % vol. - 70 cl",
-    "slug": "vodka-eristoff-red-18-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 18.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010677801607_1",
-    "url": "https://www.e.leclerc/pro/vodka-eristoff-red-18-vol-70-cl"
   },
   {
     "nom": "Whisky Blended whisky  Chivas Regal Coffret 15 ans - Ecosse, 40% vol.  - 70 cl",
@@ -20796,18 +19068,6 @@
     "url": "https://www.e.leclerc/pro/whisky-blended-whisky-johnnie-walker-double-black-label-ecosse-40-vol-70-cl"
   },
   {
-    "nom": "Rhum traditionnel Old Nick RHUM OLD NICK AMBRE DES ILES - Martinique, 40 % vol. - 70 cl",
-    "slug": "rhum-traditionnel-old-nick-rhum-old-nick-ambre-des-iles-martinique-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3012993077546_1",
-    "url": "https://www.e.leclerc/pro/rhum-traditionnel-old-nick-rhum-old-nick-ambre-des-iles-martinique-40-vol-70-cl"
-  },
-  {
     "nom": "Whisky Blended whisky  Johnnie Walker - Ecosse, 40% vol - 1 L",
     "slug": "whisky-blended-whisky-johnnie-walker-ecosse-40-vol-1-l",
     "categorie": "spiritueux",
@@ -20928,18 +19188,6 @@
     "url": "https://www.e.leclerc/pro/rhum-agricole-st-james-imperial-martinique-40-vol-70-cl"
   },
   {
-    "nom": "Vodka Sobieski, 37,5 % vol. - 70 cl",
-    "slug": "vodka-sobieski-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5902738884530_1",
-    "url": "https://www.e.leclerc/pro/vodka-sobieski-37-5-vol-70-cl"
-  },
-  {
     "nom": "Vodka Ciroc Ananas, 37,5 % vol. - 70 cl",
     "slug": "vodka-ciroc-ananas-37-5-vol-70-cl",
     "categorie": "spiritueux",
@@ -20976,18 +19224,6 @@
     "url": "https://www.e.leclerc/pro/lillet-rouge-75-cl"
   },
   {
-    "nom": "Vodka Sobieski, 37,5 % vol. - 1.5 L",
-    "slug": "vodka-sobieski-37-5-vol-1-5-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.5,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3107872502377_1",
-    "url": "https://www.e.leclerc/pro/vodka-sobieski-37-5-vol-1-5-l"
-  },
-  {
     "nom": "Whisky Blended whisky  Ballantine's 10 ans - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-blended-whisky-ballantine-s-10-ans-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -21010,30 +19246,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3163934230466_1",
     "url": "https://www.e.leclerc/pro/vodka-absolut-watermelon-38-vol-70-cl"
-  },
-  {
-    "nom": "Pastis 51 - 1.5 L",
-    "slug": "pastis-51-1-5-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.5,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3047100000193_1",
-    "url": "https://www.e.leclerc/pro/pastis-51-1-5-l"
-  },
-  {
-    "nom": "Ron Barceló Imperial Onyx - République Dominicaine, 38% vol. - 70 cl",
-    "slug": "ron-barcelo-imperial-onyx-republique-dominicaine-38-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 38.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/7461323129183_1",
-    "url": "https://www.e.leclerc/pro/ron-barcelo-imperial-onyx-republique-dominicaine-38-vol-70-cl"
   },
   {
     "nom": "Rhum vieux Dillon - Martinique, 43 % vol. - 70 cl",
@@ -21072,18 +19284,6 @@
     "url": "https://www.e.leclerc/pro/isautier-arrange-gingembre-citron-50-cl"
   },
   {
-    "nom": "Ricard Plantes Fraîches  - 70 cl",
-    "slug": "ricard-plantes-fraiches-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3163937104061_1",
-    "url": "https://www.e.leclerc/pro/ricard-plantes-fraiches-70-cl"
-  },
-  {
     "nom": "Whisky Single Malt  Lothaire Fruité Coffret  - France, 40 % vol. - 70 cl",
     "slug": "whisky-single-malt-lothaire-fruite-coffret-france-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -21094,18 +19294,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3263280123341_1",
     "url": "https://www.e.leclerc/pro/whisky-single-malt-lothaire-fruite-coffret-france-40-vol-70-cl"
-  },
-  {
-    "nom": "Old Nick Punch Planteur - 70 cl",
-    "slug": "old-nick-punch-planteur-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3012992112033_1",
-    "url": "https://www.e.leclerc/pro/old-nick-punch-planteur-70-cl"
   },
   {
     "nom": "Suze - 1.5 L",
@@ -21156,18 +19344,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-grain-hwayo-coree-du-sud-40-vol-50-cl"
   },
   {
-    "nom": "Villa Cardea Limoncello - 70 cl",
-    "slug": "villa-cardea-limoncello-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8007253902312_1",
-    "url": "https://www.e.leclerc/pro/villa-cardea-limoncello-70-cl"
-  },
-  {
     "nom": "Vodka Absolut Lime, 40% vol. - 70 cl",
     "slug": "vodka-absolut-lime-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -21192,18 +19368,6 @@
     "url": "https://www.e.leclerc/pro/martini-1-l"
   },
   {
-    "nom": "Les Arrangés Divins Banane Caramel Beurre Salé - 70 cl",
-    "slug": "les-arranges-divins-banane-caramel-beurre-sale-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3432370003720_1",
-    "url": "https://www.e.leclerc/pro/les-arranges-divins-banane-caramel-beurre-sale-70-cl"
-  },
-  {
     "nom": "Whisky Blended Malt Glenmorangie The Lasanta - sous étui 12 ans - Ecosse, 43% vol. - 70 cl",
     "slug": "whisky-blended-malt-glenmorangie-the-lasanta-sous-etui-12-ans-ecosse-43-vol-70-cl",
     "categorie": "spiritueux",
@@ -21226,18 +19390,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/7630040401357_1",
     "url": "https://www.e.leclerc/pro/martini-fiero-1-l"
-  },
-  {
-    "nom": "Rum Sailor Jerry - ROYAUME UNI, 40% vol. - 70 cl",
-    "slug": "rum-sailor-jerry-royaume-uni-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010327405223_1",
-    "url": "https://www.e.leclerc/pro/rum-sailor-jerry-royaume-uni-40-vol-70-cl"
   },
   {
     "nom": "Porto AOP Porto Cruz - Blanc - 75 cl",
@@ -21370,18 +19522,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/5000289933490_1",
     "url": "https://www.e.leclerc/pro/gin-gordon-s-mediterranean-orange-mediterranean-orange-37-5-vol-70-cl"
-  },
-  {
-    "nom": "Ron Bacardi Carta Blanca - PORTO-RICO, 37,5% vol. - 70 cl",
-    "slug": "ron-bacardi-carta-blanca-porto-rico-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5010677014205_1",
-    "url": "https://www.e.leclerc/pro/ron-bacardi-carta-blanca-porto-rico-37-5-vol-70-cl"
   },
   {
     "nom": "Gin Greenall's Blood Orange & Fig Gin Blood Orange & Fig Gin, 37,5 % vol. - 70 cl",
@@ -21588,30 +19728,6 @@
     "url": "https://www.e.leclerc/pro/les-arranges-divins-volupte-mangue-curcuma-70-cl"
   },
   {
-    "nom": "Rum Captain Morgan Black Spiced - Barbade, 40% vol. - 70 cl",
-    "slug": "rum-captain-morgan-black-spiced-barbade-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5000281033273_1",
-    "url": "https://www.e.leclerc/pro/rum-captain-morgan-black-spiced-barbade-40-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Zubrowka Ice, 30 % vol. - 70 cl",
-    "slug": "vodka-zubrowka-ice-30-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 30.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5900343013864_1",
-    "url": "https://www.e.leclerc/pro/vodka-zubrowka-ice-30-vol-70-cl"
-  },
-  {
     "nom": "Rhum traditionnel Isautier - REUNION, 40% vol.  - 1 L",
     "slug": "rhum-traditionnel-isautier-reunion-40-vol-1-l",
     "categorie": "spiritueux",
@@ -21684,18 +19800,6 @@
     "url": "https://www.e.leclerc/pro/gin-drumshanbo-gunpowder-43-vol-70-cl"
   },
   {
-    "nom": "Vodka Zubrowka Fire, 30 % vol. - 70 cl",
-    "slug": "vodka-zubrowka-fire-30-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 30.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5900343013888_1",
-    "url": "https://www.e.leclerc/pro/vodka-zubrowka-fire-30-vol-70-cl"
-  },
-  {
     "nom": "Gin Bombay Sapphire Bramble, 37,5% vol. - 70 cl",
     "slug": "gin-bombay-sapphire-bramble-37-5-vol-70-cl",
     "categorie": "spiritueux",
@@ -21744,18 +19848,6 @@
     "url": "https://www.e.leclerc/pro/rhum-agricole-clement-martinique-41-4-vol-70-cl"
   },
   {
-    "nom": "Ron Bacardi Anejo Cuatro  4 ans - PORTO-RICO, 40% vol. - 70 cl",
-    "slug": "ron-bacardi-anejo-cuatro-4-ans-porto-rico-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7610113001417_1",
-    "url": "https://www.e.leclerc/pro/ron-bacardi-anejo-cuatro-4-ans-porto-rico-40-vol-70-cl"
-  },
-  {
     "nom": "Old Nick Cocktail Daiquiri - 70 cl",
     "slug": "old-nick-cocktail-daiquiri-70-cl",
     "categorie": "spiritueux",
@@ -21790,18 +19882,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5010327207285_1",
     "url": "https://www.e.leclerc/pro/whisky-blended-whisky-grant-s-triple-wood-royaume-uni-40-vol-35-cl"
-  },
-  {
-    "nom": "Ron Havana Club Cuban Spiced - CUBA, 35% vol. - 70 cl",
-    "slug": "ron-havana-club-cuban-spiced-cuba-35-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 35.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8501110084185_1",
-    "url": "https://www.e.leclerc/pro/ron-havana-club-cuban-spiced-cuba-35-vol-70-cl"
   },
   {
     "nom": "Whisky Blended Malt The Singleton of Dufftown 15 ans - Ecosse, 45% vol. - 70 cl",
@@ -21850,18 +19930,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3305108971601_1",
     "url": "https://www.e.leclerc/pro/rhum-agricole-bologne-guadeloupe-50-vol-70-cl"
-  },
-  {
-    "nom": "Gin Beefeater Blood Orange Blood Orange, 37,5% vol.  - 70 cl",
-    "slug": "gin-beefeater-blood-orange-blood-orange-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5000299618240_1",
-    "url": "https://www.e.leclerc/pro/gin-beefeater-blood-orange-blood-orange-37-5-vol-70-cl"
   },
   {
     "nom": "Whisky Single Malt  Glen Moray - Ecosse, 40 % vol. - 70 cl",
@@ -21960,30 +20028,6 @@
     "url": "https://www.e.leclerc/pro/jinro-soju-plum-35-cl"
   },
   {
-    "nom": "Whisky Blended whisky  Hinotori - JAPON, 47 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-hinotori-japon-47-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 47.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/4971435747128_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-hinotori-japon-47-vol-70-cl"
-  },
-  {
-    "nom": "Porto AOP Rozès Special Reserve Carafe Fondateur - Rouge - 75 cl",
-    "slug": "porto-aop-rozes-special-reserve-carafe-fondateur-rouge-75-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 19,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5601144876114_1",
-    "url": "https://www.e.leclerc/pro/porto-aop-rozes-special-reserve-carafe-fondateur-rouge-75-cl"
-  },
-  {
     "nom": "Rhum agricole Bologne BOLOGNE LA PETITE CANNE NOIRE RHUM - Guadeloupe, 45 % vol. - 70 cl",
     "slug": "rhum-agricole-bologne-bologne-la-petite-canne-noire-rhum-guadeloupe-45-vol-70-cl",
     "categorie": "spiritueux",
@@ -22080,18 +20124,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-malt-knockando-slow-matured-18-ans-ecosse-43-vol-70-cl"
   },
   {
-    "nom": "Whisky Blended whisky  Hinotori - JAPON, 45 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-hinotori-japon-45-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 45.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/4971435747098_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-hinotori-japon-45-vol-70-cl"
-  },
-  {
     "nom": "Bourbon Buffalo Trace Straight bourbon - Etats-Unis, 40 % vol. - 70 cl",
     "slug": "bourbon-buffalo-trace-straight-bourbon-etats-unis-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -22102,18 +20134,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/0080244009984_1",
     "url": "https://www.e.leclerc/pro/bourbon-buffalo-trace-straight-bourbon-etats-unis-40-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Belvedere Vodka BIO, 40 % vol. - 1.75 L",
-    "slug": "vodka-belvedere-vodka-bio-40-vol-1-75-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.75,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5901867816818_1",
-    "url": "https://www.e.leclerc/pro/vodka-belvedere-vodka-bio-40-vol-1-75-l"
   },
   {
     "nom": "Whisky Single Malt  Belles Filles - FRANCE, 40% vol - 70 cl",
@@ -22138,18 +20158,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3326351513998_1",
     "url": "https://www.e.leclerc/pro/rhum-agricole-reimonenq-guadeloupe-50-vol-1-l"
-  },
-  {
-    "nom": "Porto AOP Rozès - Rouge - 75 cl",
-    "slug": "porto-aop-rozes-rouge-75-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 19,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5601144876053_1",
-    "url": "https://www.e.leclerc/pro/porto-aop-rozes-rouge-75-cl"
   },
   {
     "nom": "Saké Shirayuki - 75 cl",
@@ -22200,18 +20208,6 @@
     "url": "https://www.e.leclerc/pro/rhum-the-kraken-roast-coffee-france-40-vol-70-cl"
   },
   {
-    "nom": "Whisky Single Malt  Balvenie DoubleWood - sous étui 12 ans - Ecosse, 40% vol. - 70 cl",
-    "slug": "whisky-single-malt-balvenie-doublewood-sous-etui-12-ans-ecosse-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5010327505138_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-balvenie-doublewood-sous-etui-12-ans-ecosse-40-vol-70-cl"
-  },
-  {
     "nom": "La Rhumerie Mauricienne - 70 cl",
     "slug": "la-rhumerie-mauricienne-70-cl",
     "categorie": "spiritueux",
@@ -22248,18 +20244,6 @@
     "url": "https://www.e.leclerc/pro/byrrh-17-vol-1-l"
   },
   {
-    "nom": "Rhum vieux Clément Millésime Hors d'Âge - Martinique, 42 % vol. - 70 cl",
-    "slug": "rhum-vieux-clement-millesime-hors-d-age-martinique-42-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 42.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3107460009738_1",
-    "url": "https://www.e.leclerc/pro/rhum-vieux-clement-millesime-hors-d-age-martinique-42-vol-70-cl"
-  },
-  {
     "nom": "Saké La Martiniquaise Mei Kuei Lu Chiew - 1 L",
     "slug": "sake-la-martiniquaise-mei-kuei-lu-chiew-1-l",
     "categorie": "spiritueux",
@@ -22294,18 +20278,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/3047102272482_1",
     "url": "https://www.e.leclerc/pro/rhum-traditionnel-havana-club-3-ans-cuba-37-5-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Blended Malt Togouchi Coffret Togouchi Duo Premium + Beer Cask Finish - Japon, 40 % vol. - 2x35 cl",
-    "slug": "whisky-blended-malt-togouchi-coffret-togouchi-duo-premium-beer-cask-finish-japon-40-vol-2x35-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760042529781_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-malt-togouchi-coffret-togouchi-duo-premium-beer-cask-finish-japon-40-vol-2x35-cl"
   },
   {
     "nom": "Bourbon Woodford Reserve  - Etats Unis, 43,2% vol.  - 70 cl",
@@ -22392,18 +20364,6 @@
     "url": "https://www.e.leclerc/pro/campari-1-l"
   },
   {
-    "nom": "Rum Planteray Isle of fiji - FIDJI, 40% vol.  - 70 cl",
-    "slug": "rum-planteray-isle-of-fiji-fidji-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3460410538550_1",
-    "url": "https://www.e.leclerc/pro/rum-planteray-isle-of-fiji-fidji-40-vol-70-cl"
-  },
-  {
     "nom": "Magnum Cognac Hennessy VS, 40 % vol. - 1.5 L",
     "slug": "magnum-cognac-hennessy-vs-40-vol-1-5-l",
     "categorie": "spiritueux",
@@ -22414,18 +20374,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3245990250005_1",
     "url": "https://www.e.leclerc/pro/magnum-cognac-hennessy-vs-40-vol-1-5-l"
-  },
-  {
-    "nom": "RYE Whiskey  Jack Daniel's - Etats-Unis, 45% vol. - 70 cl",
-    "slug": "rye-whiskey-jack-daniel-s-etats-unis-45-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 45.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5099873011720_1",
-    "url": "https://www.e.leclerc/pro/rye-whiskey-jack-daniel-s-etats-unis-45-vol-70-cl"
   },
   {
     "nom": "Flavors Island Rum Anana Beach - 70 cl",
@@ -22464,18 +20412,6 @@
     "url": "https://www.e.leclerc/pro/theo-preiss-poire-williams-50-cl"
   },
   {
-    "nom": "Ron Millonario 10 ans Reserva - PEROU, 40 % vol. - 70 cl",
-    "slug": "ron-millonario-10-ans-reserva-perou-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8033749404039_1",
-    "url": "https://www.e.leclerc/pro/ron-millonario-10-ans-reserva-perou-40-vol-70-cl"
-  },
-  {
     "nom": "Les Arrangés Divins Sirocco - 70 cl",
     "slug": "les-arranges-divins-sirocco-70-cl",
     "categorie": "spiritueux",
@@ -22498,18 +20434,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/3283770131113_1",
     "url": "https://www.e.leclerc/pro/rhum-traditionnel-isautier-reunion-49-vol-3-l"
-  },
-  {
-    "nom": "Rum Plantation - FIDJI, 40 % vol. - 70 cl",
-    "slug": "rum-plantation-fidji-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3460410531537_1",
-    "url": "https://www.e.leclerc/pro/rum-plantation-fidji-40-vol-70-cl"
   },
   {
     "nom": "Rhum vieux Botran - Guatemala, 40 % vol. - 70 cl",
@@ -22620,54 +20544,6 @@
     "url": "https://www.e.leclerc/pro/rhum-vieux-pampero-aniversario-sous-etui-venezuela-40-vol-70-cl"
   },
   {
-    "nom": "Whisky Single Malt  Glenfarclas - Ecosse, 43 % vol. - 70 cl",
-    "slug": "whisky-single-malt-glenfarclas-ecosse-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5018066112433_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-malt-glenfarclas-ecosse-43-vol-70-cl"
-  },
-  {
-    "nom": "Rhum vieux Hédone BIO - France, 40 % vol. - 70 cl",
-    "slug": "rhum-vieux-hedone-bio-france-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760042529873_1",
-    "url": "https://www.e.leclerc/pro/rhum-vieux-hedone-bio-france-40-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Blended whisky  Muteki - Japon, 40 % vol. - 70 cl",
-    "slug": "whisky-blended-whisky-muteki-japon-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/4595644925018_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-muteki-japon-40-vol-70-cl"
-  },
-  {
-    "nom": "Rhum traditionnel Havana Club - Cuba, 37,5% vol. - 70 cl",
-    "slug": "rhum-traditionnel-havana-club-cuba-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3047102280050_1",
-    "url": "https://www.e.leclerc/pro/rhum-traditionnel-havana-club-cuba-37-5-vol-70-cl"
-  },
-  {
     "nom": "Whisky Single Malt  Glen Grant - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-single-malt-glen-grant-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -22702,54 +20578,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/0721733000296_1",
     "url": "https://www.e.leclerc/pro/tequila-patron-xo-cafe-35-vol-70-cl"
-  },
-  {
-    "nom": "Whisky Blended whisky  Nikka From The Barrel - Japon, 51,4 % vol. - 50 cl",
-    "slug": "whisky-blended-whisky-nikka-from-the-barrel-japon-51-4-vol-50-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.5,
-    "degre_pct": 51.4,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3700597302378_1",
-    "url": "https://www.e.leclerc/pro/whisky-blended-whisky-nikka-from-the-barrel-japon-51-4-vol-50-cl"
-  },
-  {
-    "nom": "Porto AOP Rozès 20 ans - Ambré - 75 cl",
-    "slug": "porto-aop-rozes-20-ans-ambre-75-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 19,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5601144630013_1",
-    "url": "https://www.e.leclerc/pro/porto-aop-rozes-20-ans-ambre-75-cl"
-  },
-  {
-    "nom": "Vodka Absolut, 40 % vol. - 70 cl",
-    "slug": "vodka-absolut-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7312040553150_1",
-    "url": "https://www.e.leclerc/pro/vodka-absolut-40-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Absolut - Swedish Vodka , 40 % vol. - 50 cl",
-    "slug": "vodka-absolut-swedish-vodka-40-vol-50-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.5,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7312040017072_1",
-    "url": "https://www.e.leclerc/pro/vodka-absolut-swedish-vodka-40-vol-50-cl"
   },
   {
     "nom": "Whisky Single Malt  Glenfiddich 12 ans - Ecosse, 40% vol. - 70 cl",
@@ -22800,18 +20628,6 @@
     "url": "https://www.e.leclerc/pro/bourbon-jim-beam-jim-beam-white-etats-unis-40-vol-70-cl"
   },
   {
-    "nom": "Vodka Three Sixty Vodka Original, 37,5% vol. - 70 cl",
-    "slug": "vodka-three-sixty-vodka-original-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/4007675400001_1",
-    "url": "https://www.e.leclerc/pro/vodka-three-sixty-vodka-original-37-5-vol-70-cl"
-  },
-  {
     "nom": "Muscat de Frontignan AOP Frontignan Premier - Blanc - 1 L",
     "slug": "muscat-de-frontignan-aop-frontignan-premier-blanc-1-l",
     "categorie": "spiritueux",
@@ -22822,30 +20638,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3193460000240_1",
     "url": "https://www.e.leclerc/pro/muscat-de-frontignan-aop-frontignan-premier-blanc-1-l"
-  },
-  {
-    "nom": "Rum Bacardi Carta Blanca + Verre - Porto-Rico, 37,5% vol.  - 70 cl",
-    "slug": "rum-bacardi-carta-blanca-verre-porto-rico-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7610113002896_1",
-    "url": "https://www.e.leclerc/pro/rum-bacardi-carta-blanca-verre-porto-rico-37-5-vol-70-cl"
-  },
-  {
-    "nom": "Gin Gordon's Premium Pink  Premium Pink , 37,5 % vol. - 70 cl",
-    "slug": "gin-gordon-s-premium-pink-premium-pink-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5000289929417_1",
-    "url": "https://www.e.leclerc/pro/gin-gordon-s-premium-pink-premium-pink-37-5-vol-70-cl"
   },
   {
     "nom": "Theo Preiss Mirabelle - 50 cl",
@@ -23004,18 +20796,6 @@
     "url": "https://www.e.leclerc/pro/whisky-blended-whisky-ballantine-s-blended-scotch-whisky-12-ans-ecosse-40-vol-70-cl"
   },
   {
-    "nom": "Rhum vieux Dictador 16 ans - COLOMBIE, 40 % vol. - 70 cl",
-    "slug": "rhum-vieux-dictador-16-ans-colombie-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5902670843466_1",
-    "url": "https://www.e.leclerc/pro/rhum-vieux-dictador-16-ans-colombie-40-vol-70-cl"
-  },
-  {
     "nom": "Rhum vieux agricole Dillon Très Vieux VSOP - Martinique, 43% vol. - 70 cl",
     "slug": "rhum-vieux-agricole-dillon-tres-vieux-vsop-martinique-43-vol-70-cl",
     "categorie": "spiritueux",
@@ -23038,18 +20818,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/8002240001009_1",
     "url": "https://www.e.leclerc/pro/cynar-1-l"
-  },
-  {
-    "nom": "Rum Phraya Elements - Thailande, 40 % vol. - 70 cl",
-    "slug": "rum-phraya-elements-thailande-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/8851707000532_1",
-    "url": "https://www.e.leclerc/pro/rum-phraya-elements-thailande-40-vol-70-cl"
   },
   {
     "nom": "Gin Tanqueray  Coffret 1 Verre  Coffret 1 Verre, 43,1 % vol. - 70 cl",
@@ -23076,18 +20844,6 @@
     "url": "https://www.e.leclerc/pro/rhum-agricole-la-mauny-martinique-40-vol-70-cl"
   },
   {
-    "nom": "Whisky Single Grain  Suntory - Japon, 43 % vol. - 70 cl",
-    "slug": "whisky-single-grain-suntory-japon-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/4901777286177_1",
-    "url": "https://www.e.leclerc/pro/whisky-single-grain-suntory-japon-43-vol-70-cl"
-  },
-  {
     "nom": "Whisky Single Malt  Johnnie Walker Black Label Coffret 2 verres 12 ans - Ecosse, 40 % vol. - 70 cl",
     "slug": "whisky-single-malt-johnnie-walker-black-label-coffret-2-verres-12-ans-ecosse-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -23098,30 +20854,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5000267195117_1",
     "url": "https://www.e.leclerc/pro/whisky-single-malt-johnnie-walker-black-label-coffret-2-verres-12-ans-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Absolut Vodka, 38% vol. - 70 cl",
-    "slug": "vodka-absolut-vodka-38-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 38.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/7312040350209_1",
-    "url": "https://www.e.leclerc/pro/vodka-absolut-vodka-38-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Tito's, 40 % vol. - 70 cl",
-    "slug": "vodka-tito-s-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/0619947000112_1",
-    "url": "https://www.e.leclerc/pro/vodka-tito-s-40-vol-70-cl"
   },
   {
     "nom": "Theo Preiss Eau de Vie de Framboise  - 50 cl",
@@ -23136,18 +20868,6 @@
     "url": "https://www.e.leclerc/pro/theo-preiss-eau-de-vie-de-framboise-50-cl"
   },
   {
-    "nom": "Tennessee whiskey Jack Daniels Old N°7 - Etats Unis, 43 % vol. - 70 cl",
-    "slug": "tennessee-whiskey-jack-daniels-old-n-7-etats-unis-43-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 43.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/5099873021873_1",
-    "url": "https://www.e.leclerc/pro/tennessee-whiskey-jack-daniels-old-n-7-etats-unis-43-vol-70-cl"
-  },
-  {
     "nom": "Bourbon  Jameson Caskmates Ipa Ed  - Irlande, 40% vol. - 70 cl",
     "slug": "bourbon-jameson-caskmates-ipa-ed-irlande-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -23160,18 +20880,6 @@
     "url": "https://www.e.leclerc/pro/bourbon-jameson-caskmates-ipa-ed-irlande-40-vol-70-cl"
   },
   {
-    "nom": "Ricard Pastis de Marseille Edition Limitée FIFA - 1 L",
-    "slug": "ricard-pastis-de-marseille-edition-limitee-fifa-1-l",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 1.0,
-    "degre_pct": 45,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3163932395648_1",
-    "url": "https://www.e.leclerc/pro/ricard-pastis-de-marseille-edition-limitee-fifa-1-l"
-  },
-  {
     "nom": "Rhum vieux Quorhum - République Dominicaine, 40% vol. - 70 cl",
     "slug": "rhum-vieux-quorhum-republique-dominicaine-40-vol-70-cl",
     "categorie": "spiritueux",
@@ -23182,18 +20890,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/7466871100073_1",
     "url": "https://www.e.leclerc/pro/rhum-vieux-quorhum-republique-dominicaine-40-vol-70-cl"
-  },
-  {
-    "nom": "Rum Botran Solera - Guatemala, 20 % vol. - 70 cl",
-    "slug": "rum-botran-solera-guatemala-20-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 20.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7401005008177_1",
-    "url": "https://www.e.leclerc/pro/rum-botran-solera-guatemala-20-vol-70-cl"
   },
   {
     "nom": "Theo Preiss Eau de Vie Mirabelle - 50 cl",
@@ -23218,18 +20914,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/5000267024233_1",
     "url": "https://www.e.leclerc/pro/whisky-blend-johnnie-walker-black-label-12-ans-ecosse-40-vol-70-cl"
-  },
-  {
-    "nom": "Adriatico - 70 cl",
-    "slug": "adriatico-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/8003695009640_1",
-    "url": "https://www.e.leclerc/pro/adriatico-70-cl"
   },
   {
     "nom": "Whisky Single Malt Tormore Speyside 14 ans - Ecosse, 43% vol. - 70 cl",
@@ -23326,18 +21010,6 @@
     "ratio_estime": false,
     "image": "https://fgellaobb.filerobot.com/5010677710497_1",
     "url": "https://www.e.leclerc/pro/gin-bombay-sapphire-dry-original-dry-original-37-5-vol-70-cl"
-  },
-  {
-    "nom": "Vodka Belvedere Ginger Zest , 40% vol. - 70 cl",
-    "slug": "vodka-belvedere-ginger-zest-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/5901867810052_1",
-    "url": "https://www.e.leclerc/pro/vodka-belvedere-ginger-zest-40-vol-70-cl"
   },
   {
     "nom": "Whisky Blended  Ballantine's Very Old - Ecosse, 40% vol. - 70 cl",
@@ -23544,18 +21216,6 @@
     "url": "https://www.e.leclerc/pro/whisky-single-malt-kavalan-kavalan-port-cask-finish-single-malt-taiwan-40-vol-70-cl"
   },
   {
-    "nom": "Rum Pyrat XO - ROYAUME UNI, 40% vol. - 70 cl",
-    "slug": "rum-pyrat-xo-royaume-uni-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/0721733100088_1",
-    "url": "https://www.e.leclerc/pro/rum-pyrat-xo-royaume-uni-40-vol-70-cl"
-  },
-  {
     "nom": "Arhumatic Arrangé Passion Ananas - 70 cl",
     "slug": "arhumatic-arrange-passion-ananas-70-cl",
     "categorie": "spiritueux",
@@ -23566,30 +21226,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3760267940408_1",
     "url": "https://www.e.leclerc/pro/arhumatic-arrange-passion-ananas-70-cl"
-  },
-  {
-    "nom": "Vodka Three Sixty Vodka Black, 42 % vol. - 70 cl",
-    "slug": "vodka-three-sixty-vodka-black-42-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 42.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/4007675050008_1",
-    "url": "https://www.e.leclerc/pro/vodka-three-sixty-vodka-black-42-vol-70-cl"
-  },
-  {
-    "nom": "Ron Bacardi Gran Reserva Ocho Años 70 cl - CUBA, 40% vol. - 70 cl",
-    "slug": "ron-bacardi-gran-reserva-ocho-anos-70-cl-cuba-40-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 40.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3011932024665_1",
-    "url": "https://www.e.leclerc/pro/ron-bacardi-gran-reserva-ocho-anos-70-cl-cuba-40-vol-70-cl"
   },
   {
     "nom": "Rhum vieux Trois Rivières - France, 40 % vol. - 70 cl",
@@ -23698,18 +21334,6 @@
     "ratio_estime": false,
     "image": "https://media.e.leclerc/5010296003062_1",
     "url": "https://www.e.leclerc/pro/gin-greenall-s-the-original-london-dry-gin-the-original-london-dry-gin-37-5-vol-70-cl"
-  },
-  {
-    "nom": "Rum Bacardi Carta Oro + Verre - Porto-Rico, 37,5% vol.  - 70 cl",
-    "slug": "rum-bacardi-carta-oro-verre-porto-rico-37-5-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 37.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/7610113002988_1",
-    "url": "https://www.e.leclerc/pro/rum-bacardi-carta-oro-verre-porto-rico-37-5-vol-70-cl"
   },
   {
     "nom": "Arcane Arrangé Ananas Rôti - 70 cl",
@@ -23964,18 +21588,6 @@
     "url": "https://www.e.leclerc/pro/champagne-vranken-brut-75-cl"
   },
   {
-    "nom": "Champagne Tsarine - Brut - 75 cl",
-    "slug": "champagne-tsarine-brut-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3416181017169_1",
-    "url": "https://www.e.leclerc/pro/champagne-tsarine-brut-75-cl"
-  },
-  {
     "nom": "Champagne Canard-Duchêne - Brut Rosé - 75 cl",
     "slug": "champagne-canard-duchene-brut-rose-75-cl",
     "categorie": "champagnes",
@@ -23986,18 +21598,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3113934004192_1",
     "url": "https://www.e.leclerc/pro/champagne-canard-duchene-brut-rose-75-cl"
-  },
-  {
-    "nom": "Champagne Stanislas Bonafé Cuvée SB - Brut - 75 cl",
-    "slug": "champagne-stanislas-bonafe-cuvee-sb-brut-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3770017301144_1",
-    "url": "https://www.e.leclerc/pro/champagne-stanislas-bonafe-cuvee-sb-brut-75-cl"
   },
   {
     "nom": "Champagne Nicolas Feuillatte Grande Réserve - Brut - 75 cl",
@@ -24108,30 +21708,6 @@
     "url": "https://www.e.leclerc/pro/champagne-montaudon-brut-75-cl"
   },
   {
-    "nom": "Champagne Vranken Demoiselle - Brut - 75 cl",
-    "slug": "champagne-vranken-demoiselle-brut-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3253950000522_1",
-    "url": "https://www.e.leclerc/pro/champagne-vranken-demoiselle-brut-75-cl"
-  },
-  {
-    "nom": "Champagne M. Haslinger & Fils - Brut - 75 cl",
-    "slug": "champagne-m-haslinger-fils-brut-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3292053230023_1",
-    "url": "https://www.e.leclerc/pro/champagne-m-haslinger-fils-brut-75-cl"
-  },
-  {
     "nom": "Champagne Laurent Perrier La Cuvée - Brut - 75 cl",
     "slug": "champagne-laurent-perrier-la-cuvee-brut-75-cl",
     "categorie": "champagnes",
@@ -24214,18 +21790,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3185370303405_1",
     "url": "https://www.e.leclerc/pro/champagne-ruinart-brut-blanc-de-blancs-75-cl"
-  },
-  {
-    "nom": "Champagne de Castellane Commodore - Brut - 75 cl",
-    "slug": "champagne-de-castellane-commodore-brut-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://fgellaobb.filerobot.com/3113870006328_1",
-    "url": "https://www.e.leclerc/pro/champagne-de-castellane-commodore-brut-75-cl"
   },
   {
     "nom": "Champagne Pommery Royal - Brut - 75 cl",
@@ -24334,18 +21898,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3043700104330_1",
     "url": "https://www.e.leclerc/pro/champagne-mumm-brut-rose-75-cl"
-  },
-  {
-    "nom": "Champagne Granzamy Cuvée Spéciale - Brut - 75 cl",
-    "slug": "champagne-granzamy-cuvee-speciale-brut-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3760091330017_1",
-    "url": "https://www.e.leclerc/pro/champagne-granzamy-cuvee-speciale-brut-75-cl"
   },
   {
     "nom": "Demi-bouteille Champagne Canard-Duchêne - Brut - 37.5 cl",
@@ -24576,18 +22128,6 @@
     "url": "https://www.e.leclerc/pro/disaronno-velvet-70-cl"
   },
   {
-    "nom": "Rhum agricole Severin Distillerie  - Guadeloupe, 59 % vol. - 70 cl",
-    "slug": "rhum-agricole-severin-distillerie-guadeloupe-59-vol-70-cl",
-    "categorie": "spiritueux",
-    "prix_eur": null,
-    "volume_L": 0.7,
-    "degre_pct": 59.0,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3340790000536_1",
-    "url": "https://www.e.leclerc/pro/rhum-agricole-severin-distillerie-guadeloupe-59-vol-70-cl"
-  },
-  {
     "nom": "Clos René, 2022 - Pomerol AOP - Rouge - 75 cl",
     "slug": "clos-rene-2022-pomerol-aop-rouge-75-cl",
     "categorie": "vins-rouges",
@@ -24598,18 +22138,6 @@
     "ratio_estime": true,
     "image": "https://media.e.leclerc/3495230520553_1",
     "url": "https://www.e.leclerc/pro/clos-rene-2022-pomerol-aop-rouge-75-cl"
-  },
-  {
-    "nom": "Champagne Tsarine - Demi-sec - 75 cl",
-    "slug": "champagne-tsarine-demi-sec-75-cl",
-    "categorie": "champagnes",
-    "prix_eur": null,
-    "volume_L": 0.75,
-    "degre_pct": 12.5,
-    "ratio": null,
-    "ratio_estime": false,
-    "image": "https://media.e.leclerc/3416185012627_1",
-    "url": "https://www.e.leclerc/pro/champagne-tsarine-demi-sec-75-cl"
   },
   {
     "nom": "Magnum Barreyres, 2022 - Haut-Médoc AOP - Rouge - 1.5 L",
