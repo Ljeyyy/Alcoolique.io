@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <title>AlcoScore</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#080c18">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         * { -webkit-tap-highlight-color: transparent; }
@@ -423,5 +425,20 @@ function resetVS() {
     document.getElementById('vs-result').classList.add('hidden');
 }
 </script>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js')
+        .then(registration => {
+          console.log('Service Worker enregistré avec succès !');
+        })
+        .catch(error => {
+          console.log('Erreur d\'enregistrement du Service Worker:', error);
+        });
+    });
+  }
+</script>
+
 </body>
 </html>
