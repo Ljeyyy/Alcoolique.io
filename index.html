@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <title>AlcoScore</title>
+    <link rel="manifest" href="./manifest.json">
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+    <meta name="theme-color" content="#080c18">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.js"></script>
     <style>
         * { -webkit-tap-highlight-color: transparent; }
         body { background: #080c18; font-family: 'Segoe UI', sans-serif; max-width: 480px; margin: 0 auto; }
@@ -43,6 +47,7 @@
 </head>
 <body class="text-gray-200 pb-20">
 
+
 <!-- ═══════════════ HEADER ═══════════════ -->
 <header class="sticky top-0 z-50 glass px-4 pt-4 pb-3">
     <div class="flex items-center justify-between mb-3">
@@ -55,8 +60,10 @@
         class="w-full bg-slate-900 border border-slate-800 rounded-2xl px-4 py-2.5 text-sm focus:border-yellow-500 outline-none">
 </header>
 
+
 <!-- ═══════════════ PAGES ═══════════════ -->
 <main class="px-3 pt-4">
+
 
     <!-- ── PAGE ACCUEIL ── -->
     <div id="page-home" class="page active">
@@ -110,6 +117,7 @@
         </div>
     </div>
 
+
     <!-- ── PAGE CATALOGUE ── -->
     <div id="page-catalog" class="page">
         <!-- Filtres catégories -->
@@ -149,25 +157,23 @@
         <div id="grid" class="grid grid-cols-2 gap-3"></div>
     </div>
 
-    <!-- ========================================== -->
-    <!-- SECTION OUTILS : RAT ++ & CUITE CALCULATOR -->
-    <!-- ========================================== -->
-     <!-- ── PAGE RAT ++ (MAJEURE) ── -->
-    <div id="page-ratplusplus" class="page hidden px-4 pb-24 pt-4">
+
+    <!-- ── PAGE RAT ++ ── -->
+    <div id="page-ratplusplus" class="page px-1 pb-24 pt-2">
         <h2 class="text-xl font-black text-white mb-2">🐀 Rat ++ (In-Store)</h2>
         <p class="text-sm text-gray-400 mb-6">Lis l'étiquette en rayon et découvre si tu te fais arnaquer :</p>
-        
+
         <div class="flex flex-col gap-4">
             <div>
                 <label class="text-xs font-bold text-gray-400 uppercase">Prix au litre (indiqué sur l'étiquette)</label>
-                <input type="number" id="rat-nouveau-prixL" placeholder="Ex: 15.50 (€/L)" class="w-full mt-1 bg-slate-800 border border-slate-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-yellow-500 outline-none">
+                <input type="number" id="rat-nouveau-prixL" placeholder="Ex: 15.50 (€/L)"
+                    class="w-full mt-1 bg-slate-800 border border-slate-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-yellow-500 outline-none">
             </div>
-            
             <div>
                 <label class="text-xs font-bold text-gray-400 uppercase">Degré d'alcool</label>
-                <input type="number" id="rat-nouveau-degre" placeholder="Ex: 37.5 (%)" class="w-full mt-1 bg-slate-800 border border-slate-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-yellow-500 outline-none">
+                <input type="number" id="rat-nouveau-degre" placeholder="Ex: 37.5 (%)"
+                    class="w-full mt-1 bg-slate-800 border border-slate-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-yellow-500 outline-none">
             </div>
-
             <div>
                 <label class="text-xs font-bold text-gray-400 uppercase">C'est quoi comme alcool ?</label>
                 <select id="rat-nouveau-cat" class="w-full mt-1 bg-slate-800 border border-slate-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-yellow-500 outline-none">
@@ -176,99 +182,112 @@
                     <option value="spiritueux">🥃 Alcool Fort (Vodka, Rhum...)</option>
                 </select>
             </div>
-            
-            <button onclick="calculerRatIntelligent()" class="w-full bg-yellow-500 text-black font-black py-4 rounded-lg mt-2 hover:bg-yellow-400 transition shadow-[0_0_15px_rgba(234,179,8,0.3)]">ANALYSER L'OFFRE</button>
+            <button onclick="calculerRatIntelligent()"
+                class="w-full bg-yellow-500 text-black font-black py-4 rounded-lg mt-2 hover:bg-yellow-400 transition shadow-[0_0_15px_rgba(234,179,8,0.3)]">
+                ANALYSER L'OFFRE
+            </button>
         </div>
-        
+
         <div id="rat-nouveau-resultat" class="hidden mt-6 p-5 bg-slate-800 border-l-4 border-yellow-500 rounded-r-lg shadow-lg">
             <h3 id="rat-score" class="text-white font-black text-2xl mb-1"></h3>
             <p id="rat-reco" class="text-sm text-gray-300 mt-3 leading-relaxed"></p>
         </div>
     </div>
 
- <!-- ── PAGE OUTILS ── -->
-    <div id="page-outils" class="page hidden">
-     <hr class="border-slate-800 mb-8">
-     <!-- ── PAGE COMPARER ── -->
-        <div id="page-vs" class="page">
-            <div class="text-center py-6 px-4">
+
+    <!-- ── PAGE OUTILS ── -->
+    <div id="page-outils" class="page px-1 pb-24 pt-2">
+
+        <!-- Comparateur VS -->
+        <div class="mb-8">
+            <div class="text-center py-4">
                 <div class="text-4xl mb-3">⚔️</div>
                 <h2 class="text-lg font-black text-white mb-2">Comparer 2 produits</h2>
-                <p class="text-xs text-gray-500 mb-6">Sélectionne des produits depuis le catalogue en cliquant sur les cartes</p>
+                <p class="text-xs text-gray-500 mb-4">Sélectionne des produits depuis le catalogue en cliquant sur les cartes</p>
             </div>
-                <div id="vs-slots" class="grid grid-cols-2 gap-3 mb-4">
-                    <div id="vs-slot-0" class="bg-slate-900 border-2 border-dashed border-slate-700 rounded-2xl p-4 text-center min-h-[140px] flex flex-col items-center justify-center">
-                        <div class="text-2xl mb-2">➕</div>
-                        <div class="text-[10px] text-gray-600">Produit A</div>
-                    </div>
-                    <div id="vs-slot-1" class="bg-slate-900 border-2 border-dashed border-slate-700 rounded-2xl p-4 text-center min-h-[140px] flex flex-col items-center justify-center">
-                        <div class="text-2xl mb-2">➕</div>
-                        <div class="text-[10px] text-gray-600">Produit B</div>
-                    </div>
+            <div id="vs-slots" class="grid grid-cols-2 gap-3 mb-4">
+                <div id="vs-slot-0" class="bg-slate-900 border-2 border-dashed border-slate-700 rounded-2xl p-4 text-center min-h-[140px] flex flex-col items-center justify-center">
+                    <div class="text-2xl mb-2">➕</div>
+                    <div class="text-[10px] text-gray-600">Produit A</div>
                 </div>
+                <div id="vs-slot-1" class="bg-slate-900 border-2 border-dashed border-slate-700 rounded-2xl p-4 text-center min-h-[140px] flex flex-col items-center justify-center">
+                    <div class="text-2xl mb-2">➕</div>
+                    <div class="text-[10px] text-gray-600">Produit B</div>
+                </div>
+            </div>
             <div id="vs-result" class="hidden bg-slate-900 rounded-2xl p-4 border border-yellow-500/30 text-center mb-4"></div>
             <button onclick="resetVS()" class="w-full py-2.5 bg-slate-800 rounded-2xl text-xs text-gray-400 font-bold">🔄 Réinitialiser</button>
         </div>
 
-     <!-- CUITE CALCULATOR -->
+        <hr class="border-slate-800 mb-8">
+
+        <!-- Cuite Calculator -->
         <div class="mb-8">
             <h2 class="text-lg font-black text-white mb-2">🧪 Cuite Calculator</h2>
             <p class="text-sm text-gray-400 mb-4">La science au service de ton foie :</p>
-            
+
             <div class="flex flex-col gap-3">
-                <input type="number" id="cuite-poids" placeholder="Ton poids (kg)" class="w-full bg-slate-800 border border-slate-700 rounded-lg p-3 text-white placeholder-gray-500">
-                
+                <input type="number" id="cuite-poids" placeholder="Ton poids (kg)"
+                    class="w-full bg-slate-800 border border-slate-700 rounded-lg p-3 text-white placeholder-gray-500">
                 <select id="cuite-cible" class="w-full bg-slate-800 border border-slate-700 rounded-lg p-3 text-white">
                     <option value="0.5">🍻 Pompette (0.5 g/L)</option>
                     <option value="1.0">🥳 Fêtard (1.0 g/L)</option>
                     <option value="1.5">🏴‍☠️ Naufrage (1.5 g/L)</option>
                 </select>
-
                 <label class="flex items-center gap-2 text-gray-300 mt-2">
                     <input type="checkbox" id="cuite-repas" class="w-5 h-5 rounded bg-slate-800 border-slate-700 text-yellow-500">
                     J'ai bien mangé
                 </label>
-                
-                <button onclick="calculerCuite()" class="w-full bg-rose-600 text-white font-black py-3 rounded-lg mt-2">DIAGNOSTIQUER</button>
+                <button onclick="calculerCuite()" class="w-full bg-rose-600 text-white font-black py-3 rounded-lg mt-2 hover:bg-rose-500 transition">
+                    DIAGNOSTIQUER
+                </button>
             </div>
-            
-            <div id="cuite-resultat" class="hidden mt-6 p-4 bg-slate-800 border-l-4 border-rose-600 rounded-r-lg text-sm text-gray-300">
-                <!-- Les résultats s'afficheront ici -->
-            </div>
+
+            <div id="cuite-resultat" class="hidden mt-6 p-4 bg-slate-800 border-l-4 border-rose-600 rounded-r-lg text-sm text-gray-300"></div>
         </div>
     </div>
 
-   
 
 </main>
 
+
 <!-- ═══════════════ TAB BAR ═══════════════ -->
-<nav class="tab-bar fixed bottom-0 inset-x-0 z-50 flex justify-around items-center px-2 py-2 max-w-480px mx-auto bg-[#1a1a2e]" style="max-width:480px;left:50%;transform:translateX(-50%);">
-    <button class="tab-btn active flex flex-col items-center gap-0.5 px-2 py-1" onclick="goPage('home', this)">
+<nav class="tab-bar fixed bottom-0 inset-x-0 z-50 flex justify-around items-center px-2 py-2"
+    style="max-width:480px; left:50%; transform:translateX(-50%); background:#0d1120;">
+    <button class="tab-btn active flex flex-col items-center gap-0.5 px-3 py-1" onclick="goPage('home', this)">
         <span class="tab-icon text-xl">🏠</span>
         <span class="text-[9px] font-bold uppercase">Accueil</span>
     </button>
-    <button class="tab-btn flex flex-col items-center gap-0.5 px-2 py-1 text-gray-500" onclick="goPage('catalog', this)">
+    <button class="tab-btn flex flex-col items-center gap-0.5 px-3 py-1 text-gray-500" onclick="goPage('catalog', this)">
         <span class="tab-icon text-xl">📦</span>
         <span class="text-[9px] font-bold uppercase">Catalogue</span>
     </button>
-    <!-- 🟢 NOUVEAU BOUTON RAT ++ EN ONGLET MAJEUR 🟢 -->
-    <button class="tab-btn flex flex-col items-center gap-0.5 px-2 py-1 text-gray-500" onclick="goPage('ratplusplus', this)">
+    <button class="tab-btn flex flex-col items-center gap-0.5 px-3 py-1 text-gray-500" onclick="goPage('ratplusplus', this)">
         <span class="tab-icon text-xl">🐀</span>
         <span class="text-[9px] font-bold uppercase">Rat ++</span>
     </button>
-    <button class="tab-btn flex flex-col items-center gap-0.5 px-2 py-1 text-gray-500" onclick="goPage('outils', this)">
+    <button class="tab-btn flex flex-col items-center gap-0.5 px-3 py-1 text-gray-500" onclick="goPage('outils', this)">
         <span class="tab-icon text-xl">🧰</span>
         <span class="text-[9px] font-bold uppercase">Outils</span>
     </button>
 </nav>
 
-<script>
-let db = [], catFilter = 'all', subFilter = null, vsSelection = [];
-const EMOJIS = { 'bières':'🍺','vins-rouges':'🍷','vins-blancs':'🥂','vins-rosés':'🌸','spiritueux':'🥃','champagnes':'🍾' };
-const SOUS_CATS = ['vodka','rhum','whisky','gin','tequila','cognac','anisé','liqueur','autres'];
-const SOUS_EMOJIS = { 'vodka':'🫙','rhum':'🏝️','whisky':'🥃','gin':'🌿','tequila':'🌵','cognac':'🍂','anisé':'⭐','liqueur':'🍬','autres':'🔮' };
 
+<script>
+// ── Variables globales ──
+let db = [], catFilter = 'all', subFilter = null, vsSelection = [];
+
+const EMOJIS = {
+    'bières':'🍺', 'vins-rouges':'🍷', 'vins-blancs':'🥂',
+    'vins-rosés':'🌸', 'spiritueux':'🥃', 'champagnes':'🍾'
+};
+const SOUS_CATS = ['vodka','rhum','whisky','gin','tequila','cognac','anisé','liqueur','autres'];
+const SOUS_EMOJIS = {
+    'vodka':'🫙', 'rhum':'🏝️', 'whisky':'🥃', 'gin':'🌿',
+    'tequila':'🌵', 'cognac':'🍂', 'anisé':'⭐', 'liqueur':'🍬', 'autres':'🔮'
+};
+
+// ── Détection sous-catégorie spiritueux ──
 function getSousCategorie(nom) {
     const n = nom.toLowerCase();
     if (n.includes('vodka')) return 'vodka';
@@ -282,16 +301,20 @@ function getSousCategorie(nom) {
     return 'autres';
 }
 
-// ── Navigation ──
+// ── Navigation entre pages ──
 function goPage(name, btn) {
     document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-    document.querySelectorAll('.tab-btn').forEach(b => { b.classList.remove('active'); b.classList.add('text-gray-500'); });
+    document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.remove('active');
+        b.classList.add('text-gray-500');
+    });
     document.getElementById('page-' + name).classList.add('active');
     btn.classList.add('active');
     btn.classList.remove('text-gray-500');
     if (name === 'catalog') renderCatalog();
 }
 
+// ── Barre de recherche ──
 function onSearch() {
     const q = document.getElementById('search').value.toLowerCase();
     if (q.length > 0) {
@@ -300,9 +323,12 @@ function onSearch() {
     renderCatalog();
 }
 
-// ── Chargement ──
+// ── Chargement des données ──
 fetch('alcools.json').then(r => r.json()).then(data => {
-    const DEFAULT_DEGRE = { 'anisé':45,'vodka':40,'gin':40,'tequila':38,'rhum':40,'whisky':40,'cognac':40,'liqueur':20 };
+    const DEFAULT_DEGRE = {
+        'anisé':45, 'vodka':40, 'gin':40, 'tequila':38,
+        'rhum':40, 'whisky':40, 'cognac':40, 'liqueur':20
+    };
     data.forEach(p => {
         if (!p.ratio && p.prix_eur && p.volume_L) {
             const sous = getSousCategorie(p.nom);
@@ -342,9 +368,12 @@ function renderTop10() {
             ? `<span class="pill badge-spiritueux">${SOUS_EMOJIS[getSousCategorie(p.nom)]} ${getSousCategorie(p.nom)}</span>`
             : `<span class="pill badge-${p.categorie}">${EMOJIS[p.categorie]||''} ${p.categorie}</span>`;
         return `
-        <div class="${rankClass} rounded-2xl p-3 flex items-center gap-3 card cursor-pointer fade-up" onclick='addToVS(${JSON.stringify(p).replace(/'/g,"&#39;")})' style="animation-delay:${i*0.04}s">
+        <div class="${rankClass} rounded-2xl p-3 flex items-center gap-3 card cursor-pointer fade-up"
+            onclick='addToVS(${JSON.stringify(p).replace(/'/g,"&#39;")})'
+            style="animation-delay:${i*0.04}s">
             <div class="text-xl w-8 text-center flex-shrink-0">${medals[i] || '<span class=\'text-gray-600 font-black text-sm\'>#' + (i+1) + '</span>'}</div>
-            <img src="${p.image}" class="h-12 w-12 object-contain bg-white rounded-xl flex-shrink-0" onerror="this.src='https://placehold.co/48x48?text=?'">
+            <img src="${p.image}" class="h-12 w-12 object-contain bg-white rounded-xl flex-shrink-0"
+                onerror="this.src='https://placehold.co/48x48?text=?'">
             <div class="flex-1 min-w-0">
                 ${badge}
                 <div class="text-[10px] font-bold text-white leading-tight mt-0.5 truncate">${p.nom}</div>
@@ -365,9 +394,11 @@ function renderBestPerCat() {
         const top = db.filter(p => p.categorie === c).sort((a,b) => a.ratio - b.ratio)[0];
         if (!top) return '';
         return `
-        <div class="gold-glow rounded-2xl p-3 flex items-center gap-3 card cursor-pointer" onclick='addToVS(${JSON.stringify(top).replace(/'/g,"&#39;")})'>
+        <div class="gold-glow rounded-2xl p-3 flex items-center gap-3 card cursor-pointer"
+            onclick='addToVS(${JSON.stringify(top).replace(/'/g,"&#39;")})'>
             <div class="text-2xl">${EMOJIS[c]}</div>
-            <img src="${top.image}" class="h-12 w-12 object-contain bg-white rounded-xl flex-shrink-0" onerror="this.src='https://placehold.co/48x48?text=?'">
+            <img src="${top.image}" class="h-12 w-12 object-contain bg-white rounded-xl flex-shrink-0"
+                onerror="this.src='https://placehold.co/48x48?text=?'">
             <div class="flex-1 min-w-0">
                 <div class="text-[8px] text-yellow-500 font-bold uppercase mb-0.5">${c}</div>
                 <div class="text-[10px] font-bold text-white leading-tight truncate">${top.nom}</div>
@@ -384,7 +415,9 @@ function renderBestPerCat() {
 // ── Catalogue ──
 function setCat(c) {
     catFilter = c; subFilter = null;
-    document.querySelectorAll('.cat-btn').forEach(b => b.className = b.className.replace('bg-yellow-500 text-black', 'bg-slate-800 border border-slate-700 text-gray-400') + ' cat-btn');
+    document.querySelectorAll('.cat-btn').forEach(b =>
+        b.className = b.className.replace('bg-yellow-500 text-black', 'bg-slate-800 border border-slate-700 text-gray-400') + ' cat-btn'
+    );
     document.getElementById('btn-all').className = c === 'all'
         ? 'px-3 py-1.5 bg-yellow-500 text-black rounded-full whitespace-nowrap font-bold text-[10px]'
         : 'px-3 py-1.5 bg-slate-800 border border-slate-700 rounded-full whitespace-nowrap text-gray-400 font-bold text-[10px]';
@@ -399,12 +432,20 @@ function setCat(c) {
         SOUS_CATS.forEach(s => {
             const count = db.filter(p => p.categorie === 'spiritueux' && getSousCategorie(p.nom) === s).length;
             const b = document.createElement('button');
-            b.className = 'sub-chip'; b.id = 'sub-' + s;
+            b.className = 'sub-chip';
+            b.id = 'sub-' + s;
             b.textContent = SOUS_EMOJIS[s] + ' ' + s.toUpperCase() + ' (' + count + ')';
-            b.onclick = () => { subFilter = subFilter === s ? null : s; document.querySelectorAll('.sub-chip').forEach(x => x.classList.remove('active')); if (subFilter) b.classList.add('active'); renderCatalog(); };
+            b.onclick = () => {
+                subFilter = subFilter === s ? null : s;
+                document.querySelectorAll('.sub-chip').forEach(x => x.classList.remove('active'));
+                if (subFilter) b.classList.add('active');
+                renderCatalog();
+            };
             subBar.appendChild(b);
         });
-    } else { subBar.classList.add('hidden'); }
+    } else {
+        subBar.classList.add('hidden');
+    }
     renderCatalog();
 }
 
@@ -434,7 +475,8 @@ function renderCatalog() {
         card.className = 'card bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 cursor-pointer';
         card.onclick = () => addToVS(p);
         card.innerHTML = `
-            <img src="${p.image}" class="w-full h-32 object-contain bg-white p-2" onerror="this.src='https://placehold.co/200x128?text=?'">
+            <img src="${p.image}" class="w-full h-32 object-contain bg-white p-2"
+                onerror="this.src='https://placehold.co/200x128?text=?'">
             <div class="p-2.5">
                 ${badge}
                 <div class="text-[9px] font-bold text-white leading-tight mt-1 mb-2 h-8 overflow-hidden">${p.nom}</div>
@@ -453,14 +495,15 @@ function renderCatalog() {
     });
 }
 
-// ── Comparateur ──
+// ── Comparateur VS ──
+// Quand on clique sur un produit depuis le catalogue ou le top10,
+// on l'ajoute dans le comparateur et on redirige vers l'onglet Outils (index 3)
 function addToVS(p) {
     if (vsSelection.length >= 2) return;
     vsSelection.push(p);
     updateVSSlot(vsSelection.length - 1, p);
     if (vsSelection.length === 2) computeVS();
-    // Switcher vers la page VS
-    goPage('vs', document.querySelectorAll('.tab-btn')[2]);
+    goPage('outils', document.querySelectorAll('.tab-btn')[3]);
 }
 
 function updateVSSlot(i, p) {
@@ -468,12 +511,14 @@ function updateVSSlot(i, p) {
         ? `<span class="pill badge-spiritueux">${SOUS_EMOJIS[getSousCategorie(p.nom)]} ${getSousCategorie(p.nom)}</span>`
         : `<span class="pill badge-${p.categorie}">${EMOJIS[p.categorie]||''} ${p.categorie}</span>`;
     document.getElementById('vs-slot-' + i).innerHTML = `
-        <img src="${p.image}" class="h-16 w-16 object-contain bg-white rounded-xl mb-2" onerror="this.src='https://placehold.co/64x64?text=?'">
+        <img src="${p.image}" class="h-16 w-16 object-contain bg-white rounded-xl mb-2"
+            onerror="this.src='https://placehold.co/64x64?text=?'">
         ${badge}
         <div class="text-[9px] font-bold text-white leading-tight mt-1 text-center line-clamp-2">${p.nom}</div>
         <div class="text-lg font-black text-green-400 mt-1">${p.ratio}€<span class="text-[8px] text-gray-500">/L</span></div>
         <div class="text-[8px] text-gray-500">${p.prix_eur}€ · ${p.degre_pct}% · ${p.volume_L}L</div>`;
-    document.getElementById('vs-slot-' + i).className = 'bg-slate-900 border border-slate-700 rounded-2xl p-3 text-center min-h-[140px] flex flex-col items-center justify-center';
+    document.getElementById('vs-slot-' + i).className =
+        'bg-slate-900 border border-slate-700 rounded-2xl p-3 text-center min-h-[140px] flex flex-col items-center justify-center';
 }
 
 function computeVS() {
@@ -485,121 +530,106 @@ function computeVS() {
     document.getElementById('vs-result').innerHTML = `
         <div class="text-2xl mb-1">🏆</div>
         <div class="text-[10px] text-gray-500 uppercase mb-1">Gagnant</div>
-        <div class="text-sm font-black text-yellow-400 mb-1">${winner.nom.substring(0,40)}...</div>
+        <div class="text-sm font-black text-yellow-400 mb-1">${winner.nom.substring(0,40)}…</div>
         <div class="text-xs text-green-400 font-bold">Économie de ${diff}€/L soit ${pct}% moins cher</div>`;
 }
 
 function resetVS() {
     vsSelection = [];
     ['vs-slot-0','vs-slot-1'].forEach((id, i) => {
-        document.getElementById(id).innerHTML = `<div class="text-2xl mb-2">➕</div><div class="text-[10px] text-gray-600">Produit ${i === 0 ? 'A' : 'B'}</div>`;
-        document.getElementById(id).className = 'bg-slate-900 border-2 border-dashed border-slate-700 rounded-2xl p-4 text-center min-h-[140px] flex flex-col items-center justify-center';
+        document.getElementById(id).innerHTML =
+            `<div class="text-2xl mb-2">➕</div><div class="text-[10px] text-gray-600">Produit ${i === 0 ? 'A' : 'B'}</div>`;
+        document.getElementById(id).className =
+            'bg-slate-900 border-2 border-dashed border-slate-700 rounded-2xl p-4 text-center min-h-[140px] flex flex-col items-center justify-center';
     });
     document.getElementById('vs-result').classList.add('hidden');
 }
 
-// --- FONCTION POUR LE RAT ++ ---
+// ── Rat ++ ──
 function calculerRatIntelligent() {
-    let prixInput = document.getElementById('rat-nouveau-prixL');
-    let degreInput = document.getElementById('rat-nouveau-degre');
-    let catInput = document.getElementById('rat-nouveau-cat');
-    
-    let boxResultat = document.getElementById('rat-nouveau-resultat');
-    let texteScore = document.getElementById('rat-score');
-    let texteReco = document.getElementById('rat-reco');
-
-    if (!prixInput || !degreInput || !boxResultat) return;
-
-    let prixL = parseFloat(prixInput.value);
-    let degre = parseFloat(degreInput.value);
-    let categorie = catInput.value;
+    const prixL   = parseFloat(document.getElementById('rat-nouveau-prixL').value);
+    const degre   = parseFloat(document.getElementById('rat-nouveau-degre').value);
+    const categorie = document.getElementById('rat-nouveau-cat').value;
+    const boxResultat = document.getElementById('rat-nouveau-resultat');
+    const texteScore  = document.getElementById('rat-score');
+    const texteReco   = document.getElementById('rat-reco');
 
     if (!prixL || !degre || prixL <= 0 || degre <= 0) {
-        alert("❌ Remplis bien le prix au litre et le degré !");
+        alert('❌ Remplis bien le prix au litre et le degré !');
         return;
     }
 
-    // Le calcul du ratio
-    let ratio = prixL / (degre / 100);
-    boxResultat.classList.remove("hidden", "border-emerald-500", "border-rose-500", "border-yellow-500");
+    const ratio = prixL / (degre / 100);
+    boxResultat.classList.remove('hidden', 'border-emerald-500', 'border-rose-500', 'border-yellow-500');
 
-    // 🟢 LA CONNEXION À TON CATALOGUE (Variable 'db') 🟢
-    let baseDonnees = typeof db !== 'undefined' ? db : null;
-
-    if (baseDonnees && baseDonnees.length > 0) {
-        // 1. On cherche les produits de la même famille
-        let alternatives = baseDonnees.filter(p => {
+    if (db && db.length > 0) {
+        const alternatives = db.filter(p => {
             if (!p || !p.categorie || !p.ratio) return false;
-            let pCat = p.categorie.toLowerCase();
+            const pCat = p.categorie.toLowerCase();
             return pCat.includes(categorie) || categorie.includes(pCat.split('-')[0]);
         });
+        const meilleures = alternatives.filter(p => p.ratio < ratio && p.ratio > 0);
 
-        // 2. On garde seulement ceux qui ont un MEILLEUR ratio (moins cher)
-        let meilleures = alternatives.filter(p => p.ratio < ratio && p.ratio > 0);
-        
         if (meilleures.length > 0) {
-            // On trie pour proposer le grand champion de la catégorie
             meilleures.sort((a, b) => a.ratio - b.ratio);
-            let topAltern = meilleures[0];
-            
-            boxResultat.classList.add("border-rose-500");
+            const top = meilleures[0];
+            boxResultat.classList.add('border-rose-500');
             texteScore.innerHTML = `Ratio : <span class="text-rose-500">${ratio.toFixed(2)} €/L</span> pur`;
-            texteReco.innerHTML = `⚠️ <b>C'est un peu cher.</b><br>Repose ça en rayon ! Sur notre appli, pour ce type de boisson, tu pourrais avoir du <b>${topAltern.nom}</b> à seulement <b class="text-emerald-400">${topAltern.ratio.toFixed(2)} €/L</b> pur.`;
+            texteReco.innerHTML  = `⚠️ <b>C'est un peu cher.</b><br>Repose ça en rayon ! Dans notre catalogue Leclerc, tu peux avoir du <b>${top.nom}</b> à seulement <b class="text-emerald-400">${top.ratio.toFixed(2)} €/L</b> pur.`;
         } else {
-            // S'il n'y a pas d'alternative moins chère, c'est que l'utilisateur a trouvé une pépite !
-            boxResultat.classList.add("border-emerald-500");
+            boxResultat.classList.add('border-emerald-500');
             texteScore.innerHTML = `Ratio : <span class="text-emerald-500">${ratio.toFixed(2)} €/L</span> pur`;
-            texteReco.innerHTML = `🔥 <b>C'est imbattable !</b><br>Il n'y a absolument rien de moins cher dans notre catalogue Leclerc pour cette catégorie. Tu peux foncer les yeux fermés !`;
+            texteReco.innerHTML  = `🔥 <b>C'est imbattable !</b><br>Il n'y a absolument rien de moins cher dans notre catalogue Leclerc pour cette catégorie. Fonce !`;
         }
     } else {
-        // Sécurité si 'db' n'a pas encore fini de charger
-        boxResultat.classList.add("border-yellow-500");
+        boxResultat.classList.add('border-yellow-500');
         texteScore.innerHTML = `Ratio : <span class="text-yellow-500">${ratio.toFixed(2)} €/L</span> pur`;
-        texteReco.innerHTML = "Calculé avec succès ! (Chargement du comparateur...)";
+        texteReco.innerHTML  = 'Calculé avec succès ! (Chargement du catalogue en cours…)';
     }
 }
 
-// --- FONCTION POUR LE CUITE CALCULATOR ---
+// ── Cuite Calculator (formule Widmark) ──
 function calculerCuite() {
-    let poids = parseFloat(document.getElementById('cuite-poids').value);
-    let cible = parseFloat(document.getElementById('cuite-cible').value);
-    let aMange = document.getElementById('cuite-repas').checked;
-    let resultatDiv = document.getElementById('cuite-resultat');
+    const poids  = parseFloat(document.getElementById('cuite-poids').value);
+    const cible  = parseFloat(document.getElementById('cuite-cible').value);
+    const aMange = document.getElementById('cuite-repas').checked;
+    const resultatDiv = document.getElementById('cuite-resultat');
 
-    if (!poids || poids <= 0) {
-        alert("Poids invalide !");
-        return;
-    }
+    if (!poids || poids <= 0) { alert('Poids invalide !'); return; }
 
-    // Constantes de Widmark
-    const coeffHomme = 0.7; 
-    const eliminationHeure = 0.15; // Élimination de 0.15g/L par heure
+    // Formule de Widmark : alcool (g) = BAC × poids × r  (r = 0.7 homme / 0.6 femme — on utilise 0.7)
+    const r = 0.7;
+    const eliminationParHeure = 0.15; // g/L/h
 
-    // 1. Calcul de l'alcool pur en grammes
-    let grammesAlcool = cible * poids * coeffHomme;
-    
-    // 2. Conversion en centilitres d'alcool pur (densité 0.8)
-    let clAlcoolPur = (grammesAlcool / 0.8) / 10;
-    
-    // 3. Exemple d'équivalence (ex: Vodka à 40%)
-    let clVodka = (clAlcoolPur / 0.40).toFixed(1);
-    let clBiere = (clAlcoolPur / 0.05).toFixed(1);
+    const grammesAlcool = cible * poids * r;
+    const clAlcoolPur   = (grammesAlcool / 0.8) / 10; // densité alcool = 0.8 g/mL
+    const clVodka  = (clAlcoolPur / 0.40).toFixed(1);
+    const clBiere  = (clAlcoolPur / 0.05).toFixed(1);
+    const tempsMontee   = aMange ? '1 heure' : '30 minutes';
+    const tempsSobriete = (cible / eliminationParHeure).toFixed(1);
 
-    // 4. Temps
-    let tempsMontee = aMange ? "1 heure" : "30 minutes";
-    let tempsSobriete = (cible / eliminationHeure).toFixed(1);
-
-    // Affichage des résultats
-    resultatDiv.style.display = "block";
+    resultatDiv.classList.remove('hidden');
     resultatDiv.innerHTML = `
-        <h3 style="color: #ffaa00; margin-top: 0;">Prescription :</h3>
+        <h3 class="text-yellow-400 font-black mb-3">Prescription :</h3>
         <p>💧 <b>${clAlcoolPur.toFixed(2)} cl d'alcool PUR</b> à ingérer.</p>
-        <p><i>(Soit l'équivalent de ${clVodka} cl de Vodka ou ${clBiere} cl de Bière standard)</i></p>
-        <hr style="border-color: #333; margin: 10px 0;">
+        <p class="text-gray-400 text-xs mt-1 mb-3">(≈ ${clVodka} cl de Vodka 40° ou ${clBiere} cl de Bière 5°)</p>
+        <hr class="border-slate-700 mb-3">
         <p>📈 Pic atteint dans : <b>${tempsMontee}</b></p>
-        <p>📉 Retour à la sobriété dans : <b>${tempsSobriete} heures</b></p>
+        <p>📉 Retour sobriété dans : <b>${tempsSobriete} heures</b></p>
     `;
 }
 </script>
+
+<!-- ═══ Service Worker (PWA) ═══ -->
+<script>
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+            .then(() => console.log('✅ Service Worker enregistré'))
+            .catch(err => console.warn('SW error:', err));
+    });
+}
+</script>
+
 </body>
 </html>
