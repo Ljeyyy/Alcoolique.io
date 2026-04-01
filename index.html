@@ -439,7 +439,7 @@
     <!-- CUITE CALCULATOR -->
     <div id="drawer-cuite-view" class="drawer-page">
         <div class="flex items-center gap-3 mb-5">
-            <button onclick="openDrawerPage('home')" style="color:var(--text-muted);background:none;border:none;cursor:pointer;font-size:20px">‹</button>
+            <button onclick="openDrawerPage('home'); resetCuite();" style="color:var(--text-muted);background:none;border:none;cursor:pointer;font-size:20px">‹</button>
             <div>
                 <div class="section-label">Outil</div>
                 <h3 class="font-display text-xl italic text-white">Cuite Calculator 🍺</h3>
@@ -922,12 +922,11 @@ function calculerCuite() {
     document.getElementById('cuite-conduite').style.color = conduiteHours > 0 ? '#ef4444' : '#4ade80';
     document.querySelector('.drawer-content').scrollTo({ top: 0, behavior: 'smooth' });}
 
-
 function resetCuite() {
     document.getElementById('cuite-result').classList.add('hidden');
-    const drawer = document.querySelector('.drawer-content') || document.querySelector('.drawer');
-    if(drawer) drawer.scrollTo({ top: 0, behavior: 'smooth' });
-}
+    drinks = [];
+    renderDrinks();
+    document.querySelector('#drawer').scrollTo({ top: 0, behavior: 'smooth' });}
 </script>
 </body>
 </html>
